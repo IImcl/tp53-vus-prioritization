@@ -1,0 +1,916 @@
+AlleleID,VariationID,Type,Name,GeneSymbol,HGVS_p,ClinicalSignificance,clin_group,Origin,OriginSimple,position,ref_aa,alt_aa,variant_key
+27386,12347,single nucleotide variant,NM_000546.6(TP53):c.742C>T (p.Arg248Trp),TP53,p.Arg248Trp,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,248,R,W,p.R248W
+27387,12348,single nucleotide variant,NM_000546.6(TP53):c.772G>A (p.Glu258Lys),TP53,p.Glu258Lys,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,258,E,K,p.E258K
+27388,12349,single nucleotide variant,NM_000546.6(TP53):c.733G>T (p.Gly245Cys),TP53,p.Gly245Cys,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,245,G,C,p.G245C
+27390,12351,single nucleotide variant,NM_000546.6(TP53):c.215C>G (p.Pro72Arg),TP53,p.Pro72Arg,Benign,benign,germline;somatic;unknown,germline/somatic,72,P,R,p.P72R
+27391,12352,single nucleotide variant,NM_000546.6(TP53):c.747G>T (p.Arg249Ser),TP53,p.Arg249Ser,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,249,R,S,p.R249S
+27392,12353,single nucleotide variant,NM_000546.6(TP53):c.469G>T (p.Val157Phe),TP53,p.Val157Phe,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,157,V,F,p.V157F
+27393,12354,single nucleotide variant,NM_000546.6(TP53):c.725G>A (p.Cys242Tyr),TP53,p.Cys242Tyr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,242,C,Y,p.C242Y
+27394,12355,single nucleotide variant,NM_000546.6(TP53):c.734G>A (p.Gly245Asp),TP53,p.Gly245Asp,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,245,G,D,p.G245D
+27395,12356,single nucleotide variant,NM_000546.6(TP53):c.743G>A (p.Arg248Gln),TP53,p.Arg248Gln,Pathogenic,pathogenic,de novo;germline;maternal;somatic;unknown,germline/somatic,248,R,Q,p.R248Q
+27396,12357,single nucleotide variant,NM_000546.6(TP53):c.398T>C (p.Met133Thr),TP53,p.Met133Thr,Pathogenic,pathogenic,germline,germline,133,M,T,p.M133T
+27397,12358,single nucleotide variant,NM_000546.6(TP53):c.814G>T (p.Val272Leu),TP53,p.Val272Leu,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,272,V,L,p.V272L
+27398,12359,single nucleotide variant,NM_000546.6(TP53):c.722C>T (p.Ser241Phe),TP53,p.Ser241Phe,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,241,S,F,p.S241F
+27403,12364,single nucleotide variant,NM_000546.6(TP53):c.844C>T (p.Arg282Trp),TP53,p.Arg282Trp,Pathogenic/Likely pathogenic,pathogenic,germline;maternal;somatic;unknown,germline/somatic,282,R,W,p.R282W
+27404,12365,single nucleotide variant,NM_000546.6(TP53):c.733G>A (p.Gly245Ser),TP53,p.Gly245Ser,Pathogenic,pathogenic,germline;paternal;somatic;unknown,germline/somatic,245,G,S,p.G245S
+27405,12366,single nucleotide variant,NM_000546.6(TP53):c.818G>A (p.Arg273His),TP53,p.Arg273His,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,273,R,H,p.R273H
+27407,12368,single nucleotide variant,NM_000546.6(TP53):c.839G>C (p.Arg280Thr),TP53,p.Arg280Thr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,280,R,T,p.R280T
+27408,12369,single nucleotide variant,NM_000546.6(TP53):c.451C>A (p.Pro151Thr),TP53,p.Pro151Thr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,151,P,T,p.P151T
+27409,12370,single nucleotide variant,NM_000546.6(TP53):c.451C>T (p.Pro151Ser),TP53,p.Pro151Ser,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,151,P,S,p.P151S
+27410,12371,single nucleotide variant,NM_000546.6(TP53):c.105G>T (p.Leu35Phe),TP53,p.Leu35Phe,Uncertain significance,vus,germline;not applicable;somatic,germline/somatic,35,L,F,p.L35F
+27413,12374,single nucleotide variant,NM_000546.6(TP53):c.524G>A (p.Arg175His),TP53,p.Arg175His,Pathogenic,pathogenic,germline;maternal;somatic;unknown,germline/somatic,175,R,H,p.R175H
+27414,12375,single nucleotide variant,NM_000546.6(TP53):c.1031T>C (p.Leu344Pro),TP53,p.Leu344Pro,Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,344,L,P,p.L344P
+27415,12376,single nucleotide variant,NM_000546.6(TP53):c.412G>C (p.Ala138Pro),TP53,p.Ala138Pro,Likely pathogenic,pathogenic,germline,germline,138,A,P,p.A138P
+27417,12378,single nucleotide variant,NM_000546.6(TP53):c.875A>T (p.Lys292Ile),TP53,p.Lys292Ile,Uncertain significance,vus,germline,germline,292,K,I,p.K292I
+27418,12379,single nucleotide variant,NM_000546.6(TP53):c.1010G>A (p.Arg337His),TP53,p.Arg337His,"Pathogenic/Likely pathogenic/Pathogenic, low penetrance",pathogenic,germline;maternal;somatic;unknown,germline/somatic,337,R,H,p.R337H
+27422,12383,single nucleotide variant,NM_000546.6(TP53):c.659A>C (p.Tyr220Ser),TP53,p.Tyr220Ser,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,220,Y,S,p.Y220S
+27423,12384,single nucleotide variant,NM_000546.6(TP53):c.854A>T (p.Glu285Val),TP53,p.Glu285Val,Pathogenic,pathogenic,germline;somatic,germline/somatic,285,E,V,p.E285V
+52756,43587,single nucleotide variant,NM_000546.6(TP53):c.1040C>A (p.Ala347Asp),TP53,p.Ala347Asp,Pathogenic,pathogenic,germline;unknown,germline,347,A,D,p.A347D
+52757,43588,single nucleotide variant,NM_000546.6(TP53):c.139C>T (p.Pro47Ser),TP53,p.Pro47Ser,Benign,benign,germline;somatic;unknown,germline/somatic,47,P,S,p.P47S
+52763,43594,single nucleotide variant,NM_000546.6(TP53):c.817C>T (p.Arg273Cys),TP53,p.Arg273Cys,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,273,R,C,p.R273C
+83231,72340,single nucleotide variant,NM_000546.6(TP53):c.1051A>G (p.Lys351Glu),TP53,p.Lys351Glu,Uncertain significance,vus,germline,germline,351,K,E,p.K351E
+91599,80708,single nucleotide variant,NM_000546.6(TP53):c.1093C>T (p.His365Tyr),TP53,p.His365Tyr,Likely benign,benign,germline;unknown,germline,365,H,Y,p.H365Y
+91601,80710,single nucleotide variant,NM_000546.6(TP53):c.400T>C (p.Phe134Leu),TP53,p.Phe134Leu,Uncertain significance,vus,germline;somatic,germline/somatic,134,F,L,p.F134L
+106675,100815,single nucleotide variant,NM_000546.6(TP53):c.736A>G (p.Met246Val),TP53,p.Met246Val,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,246,M,V,p.M246V
+133263,127806,single nucleotide variant,NM_000546.6(TP53):c.28G>A (p.Val10Ile),TP53,p.Val10Ile,Benign,benign,germline;unknown,germline,10,V,I,p.V10I
+133265,127808,single nucleotide variant,NM_000546.6(TP53):c.329G>A (p.Arg110His),TP53,p.Arg110His,Likely benign,benign,germline;unknown,germline,110,R,H,p.R110H
+133268,127811,single nucleotide variant,NM_000546.6(TP53):c.467G>A (p.Arg156His),TP53,p.Arg156His,Uncertain significance,vus,germline;somatic;unknown,germline/somatic,156,R,H,p.R156H
+133271,127814,single nucleotide variant,NM_000546.6(TP53):c.488A>G (p.Tyr163Cys),TP53,p.Tyr163Cys,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,163,Y,C,p.Y163C
+133272,127815,single nucleotide variant,NM_000546.6(TP53):c.535C>T (p.His179Tyr),TP53,p.His179Tyr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,179,H,Y,p.H179Y
+133273,127816,single nucleotide variant,NM_000546.6(TP53):c.572C>G (p.Pro191Arg),TP53,p.Pro191Arg,Likely benign,benign,germline;unknown,germline,191,P,R,p.P191R
+133274,127817,single nucleotide variant,NM_000546.6(TP53):c.580C>T (p.Leu194Phe),TP53,p.Leu194Phe,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,194,L,F,p.L194F
+133276,127819,single nucleotide variant,NM_000546.6(TP53):c.659A>G (p.Tyr220Cys),TP53,p.Tyr220Cys,Pathogenic,pathogenic,germline;not applicable;somatic;unknown,germline/somatic,220,Y,C,p.Y220C
+133277,127820,single nucleotide variant,NM_000546.6(TP53):c.701A>G (p.Tyr234Cys),TP53,p.Tyr234Cys,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,234,Y,C,p.Y234C
+133278,127821,single nucleotide variant,NM_000546.6(TP53):c.704A>G (p.Asn235Ser),TP53,p.Asn235Ser,Benign,benign,germline;unknown,germline,235,N,S,p.N235S
+133280,127823,single nucleotide variant,NM_000546.6(TP53):c.800G>A (p.Arg267Gln),TP53,p.Arg267Gln,Uncertain significance,vus,germline;unknown,germline,267,R,Q,p.R267Q
+133281,127824,single nucleotide variant,NM_000546.6(TP53):c.847C>T (p.Arg283Cys),TP53,p.Arg283Cys,Likely benign,benign,germline;unknown,germline,283,R,C,p.R283C
+133282,127825,single nucleotide variant,NM_000546.6(TP53):c.869G>A (p.Arg290His),TP53,p.Arg290His,Benign,benign,germline;unknown,germline,290,R,H,p.R290H
+133283,127826,single nucleotide variant,NM_000546.6(TP53):c.877G>T (p.Gly293Trp),TP53,p.Gly293Trp,Likely benign,benign,germline;unknown,germline,293,G,W,p.G293W
+136722,132973,single nucleotide variant,NM_000546.6(TP53):c.886C>T (p.His296Tyr),TP53,p.His296Tyr,Likely benign,benign,germline;somatic,germline/somatic,296,H,Y,p.H296Y
+137023,133284,single nucleotide variant,NM_000546.6(TP53):c.460G>A (p.Gly154Ser),TP53,p.Gly154Ser,Uncertain significance,vus,germline;somatic;unknown,germline/somatic,154,G,S,p.G154S
+139098,135359,single nucleotide variant,NM_000546.6(TP53):c.638G>A (p.Arg213Gln),TP53,p.Arg213Gln,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,213,R,Q,p.R213Q
+139099,135360,single nucleotide variant,NM_000546.6(TP53):c.1096T>G (p.Ser366Ala),TP53,p.Ser366Ala,Benign,benign,germline;unknown,germline,366,S,A,p.S366A
+139660,135948,single nucleotide variant,NM_000546.6(TP53):c.145G>C (p.Asp49His),TP53,p.Asp49His,Benign,benign,germline;unknown,germline,49,D,H,p.D49H
+139661,135949,single nucleotide variant,NM_000546.6(TP53):c.508A>G (p.Thr170Ala),TP53,p.Thr170Ala,Uncertain significance,vus,germline,germline,170,T,A,p.T170A
+150496,140782,single nucleotide variant,NM_000546.6(TP53):c.21T>A (p.Asp7Glu),TP53,p.Asp7Glu,Likely benign,benign,germline;unknown,germline,7,D,E,p.D7E
+150500,140786,single nucleotide variant,NM_000546.5(TP53):c.319T>C (p.Tyr107His),TP53,p.Tyr107His,Benign,benign,germline;unknown,germline,107,Y,H,p.Y107H
+150515,140801,single nucleotide variant,NM_000546.6(TP53):c.422G>A (p.Cys141Tyr),TP53,p.Cys141Tyr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,141,C,Y,p.C141Y
+150535,140821,single nucleotide variant,NM_000546.6(TP53):c.844C>G (p.Arg282Gly),TP53,p.Arg282Gly,Pathogenic,pathogenic,germline;somatic,germline/somatic,282,R,G,p.R282G
+150547,140833,single nucleotide variant,NM_000546.6(TP53):c.250G>A (p.Ala84Thr),TP53,p.Ala84Thr,Likely benign,benign,germline;unknown,germline,84,A,T,p.A84T
+150635,140921,single nucleotide variant,NM_000546.6(TP53):c.328C>A (p.Arg110Ser),TP53,p.Arg110Ser,Uncertain significance,vus,germline,germline,110,R,S,p.R110S
+150725,141011,single nucleotide variant,NM_000546.6(TP53):c.766A>G (p.Thr256Ala),TP53,p.Thr256Ala,Uncertain significance,vus,germline,germline,256,T,A,p.T256A
+150770,141056,single nucleotide variant,NM_000546.6(TP53):c.144C>A (p.Asp48Glu),TP53,p.Asp48Glu,Likely benign,benign,germline,germline,48,D,E,p.D48E
+150815,141101,single nucleotide variant,NM_000546.6(TP53):c.364G>A (p.Val122Met),TP53,p.Val122Met,Likely benign,benign,germline;unknown,germline,122,V,M,p.V122M
+150816,141102,single nucleotide variant,NM_000546.6(TP53):c.935C>G (p.Thr312Ser),TP53,p.Thr312Ser,Benign,benign,germline;unknown,germline,312,T,S,p.T312S
+150855,141141,single nucleotide variant,NM_000546.6(TP53):c.842A>G (p.Asp281Gly),TP53,p.Asp281Gly,Pathogenic,pathogenic,germline;unknown,germline,281,D,G,p.D281G
+150873,141159,single nucleotide variant,NM_000546.6(TP53):c.1003C>T (p.Arg335Cys),TP53,p.Arg335Cys,Likely benign,benign,germline;unknown,germline,335,R,C,p.R335C
+150938,141224,single nucleotide variant,NM_000546.6(TP53):c.695T>C (p.Ile232Thr),TP53,p.Ile232Thr,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,232,I,T,p.I232T
+150942,141228,single nucleotide variant,NM_000546.6(TP53):c.784G>A (p.Gly262Ser),TP53,p.Gly262Ser,Likely benign,benign,germline;unknown,germline,262,G,S,p.G262S
+151073,141359,single nucleotide variant,NM_000546.6(TP53):c.554G>A (p.Ser185Asn),TP53,p.Ser185Asn,Likely benign,benign,germline;unknown,germline,185,S,N,p.S185N
+151139,141425,single nucleotide variant,NM_000546.6(TP53):c.1163A>C (p.Glu388Ala),TP53,p.Glu388Ala,Likely benign,benign,germline,germline,388,E,A,p.E388A
+151197,141483,single nucleotide variant,NM_000546.6(TP53):c.892G>A (p.Glu298Lys),TP53,p.Glu298Lys,Benign,benign,germline;unknown,germline,298,E,K,p.E298K
+151261,141547,single nucleotide variant,NM_000546.6(TP53):c.221C>T (p.Ala74Val),TP53,p.Ala74Val,Likely benign,benign,germline,germline,74,A,V,p.A74V
+151280,141566,single nucleotide variant,NM_000546.6(TP53):c.511G>A (p.Glu171Lys),TP53,p.Glu171Lys,Likely benign,benign,germline,germline,171,E,K,p.E171K
+151311,141597,single nucleotide variant,NM_000546.6(TP53):c.107C>A (p.Pro36Gln),TP53,p.Pro36Gln,Benign,benign,germline;unknown,germline,36,P,Q,p.P36Q
+151478,141764,single nucleotide variant,NM_000546.6(TP53):c.799C>T (p.Arg267Trp),TP53,p.Arg267Trp,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,267,R,W,p.R267W
+151607,141893,single nucleotide variant,NM_000546.6(TP53):c.1015G>C (p.Glu339Gln),TP53,p.Glu339Gln,Likely benign,benign,germline,germline,339,E,Q,p.E339Q
+151677,141963,single nucleotide variant,NM_000546.6(TP53):c.473G>A (p.Arg158His),TP53,p.Arg158His,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,158,R,H,p.R158H
+151702,141988,single nucleotide variant,NM_000546.6(TP53):c.391A>T (p.Asn131Tyr),TP53,p.Asn131Tyr,Pathogenic,pathogenic,germline,germline,131,N,Y,p.N131Y
+151717,142003,single nucleotide variant,NM_000546.6(TP53):c.1079G>C (p.Gly360Ala),TP53,p.Gly360Ala,Benign,benign,germline;unknown,germline,360,G,A,p.G360A
+151920,142206,single nucleotide variant,NM_000546.6(TP53):c.328C>T (p.Arg110Cys),TP53,p.Arg110Cys,Uncertain significance,vus,germline;somatic;unknown,germline/somatic,110,R,C,p.R110C
+151987,142273,single nucleotide variant,NM_000546.6(TP53):c.998G>A (p.Arg333His),TP53,p.Arg333His,Benign,benign,germline;unknown,germline,333,R,H,p.R333H
+152034,142320,single nucleotide variant,NM_000546.6(TP53):c.542G>A (p.Arg181His),TP53,p.Arg181His,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,181,R,H,p.R181H
+152038,142324,single nucleotide variant,NM_000546.6(TP53):c.848G>A (p.Arg283His),TP53,p.Arg283His,Uncertain significance,vus,germline;unknown,germline,283,R,H,p.R283H
+152046,142332,single nucleotide variant,NM_000546.6(TP53):c.907A>G (p.Ser303Gly),TP53,p.Ser303Gly,Likely benign,benign,germline,germline,303,S,G,p.S303G
+152100,142386,single nucleotide variant,NM_000546.6(TP53):c.217G>A (p.Val73Met),TP53,p.Val73Met,Benign,benign,germline;unknown,germline,73,V,M,p.V73M
+152128,142414,single nucleotide variant,NM_000546.6(TP53):c.320A>C (p.Tyr107Ser),TP53,p.Tyr107Ser,Uncertain significance,vus,germline,germline,107,Y,S,p.Y107S
+152145,142431,single nucleotide variant,NM_000546.6(TP53):c.322G>A (p.Gly108Ser),TP53,p.Gly108Ser,Likely benign,benign,germline;unknown,germline,108,G,S,p.G108S
+152250,142536,single nucleotide variant,NM_000546.6(TP53):c.1009C>T (p.Arg337Cys),TP53,p.Arg337Cys,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,337,R,C,p.R337C
+152276,142562,single nucleotide variant,NM_000546.6(TP53):c.105G>C (p.Leu35Phe),TP53,p.Leu35Phe,Likely benign,benign,germline;unknown,germline,35,L,F,p.L35F
+152338,142624,single nucleotide variant,NM_000546.6(TP53):c.541C>T (p.Arg181Cys),TP53,p.Arg181Cys,Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,181,R,C,p.R181C
+152371,142657,single nucleotide variant,NM_000546.6(TP53):c.427G>A (p.Val143Met),TP53,p.Val143Met,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,143,V,M,p.V143M
+152405,142691,single nucleotide variant,NM_000546.6(TP53):c.320A>G (p.Tyr107Cys),TP53,p.Tyr107Cys,Uncertain significance,vus,germline;unknown,germline,107,Y,C,p.Y107C
+152428,142714,single nucleotide variant,NM_000546.6(TP53):c.711G>A (p.Met237Ile),TP53,p.Met237Ile,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,237,M,I,p.M237I
+152480,142766,single nucleotide variant,NM_000546.6(TP53):c.455C>T (p.Pro152Leu),TP53,p.Pro152Leu,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,152,P,L,p.P152L
+152542,142828,single nucleotide variant,NM_000546.6(TP53):c.1010G>T (p.Arg337Leu),TP53,p.Arg337Leu,Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,337,R,L,p.R337L
+152568,142854,single nucleotide variant,NM_000546.6(TP53):c.214C>G (p.Pro72Ala),TP53,p.Pro72Ala,Likely benign,benign,germline;unknown,germline,72,P,A,p.P72A
+166282,156517,single nucleotide variant,NM_000546.6(TP53):c.1165G>T (p.Gly389Trp),TP53,p.Gly389Trp,Uncertain significance,vus,germline,germline,389,G,W,p.G389W
+171614,161516,single nucleotide variant,NM_000546.6(TP53):c.797G>A (p.Gly266Glu),TP53,p.Gly266Glu,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,266,G,E,p.G266E
+171615,161515,single nucleotide variant,NM_000546.6(TP53):c.714T>G (p.Cys238Trp),TP53,p.Cys238Trp,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,238,C,W,p.C238W
+171616,161518,single nucleotide variant,NM_000546.6(TP53):c.481G>A (p.Ala161Thr),TP53,p.Ala161Thr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,161,A,T,p.A161T
+176503,177791,single nucleotide variant,NM_000546.6(TP53):c.722C>G (p.Ser241Cys),TP53,p.Ser241Cys,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,241,S,C,p.S241C
+176640,177879,single nucleotide variant,NM_000546.6(TP53):c.1010G>C (p.Arg337Pro),TP53,p.Arg337Pro,Likely pathogenic,pathogenic,germline,germline,337,R,P,p.R337P
+180986,182939,single nucleotide variant,NM_000546.6(TP53):c.1150A>G (p.Met384Val),TP53,p.Met384Val,Likely benign,benign,germline;unknown,germline,384,M,V,p.M384V
+180990,182969,single nucleotide variant,NM_000546.6(TP53):c.1000G>C (p.Gly334Arg),TP53,p.Gly334Arg,Uncertain significance,vus,germline;unknown,germline,334,G,R,p.G334R
+180994,182938,single nucleotide variant,NM_000546.6(TP53):c.845G>T (p.Arg282Leu),TP53,p.Arg282Leu,Uncertain significance,vus,germline;unknown,germline,282,R,L,p.R282L
+180995,182968,single nucleotide variant,NM_000546.6(TP53):c.842A>T (p.Asp281Val),TP53,p.Asp281Val,Pathogenic/Likely pathogenic,pathogenic,germline,germline,281,D,V,p.D281V
+180998,182937,single nucleotide variant,NM_000546.6(TP53):c.751A>C (p.Ile251Leu),TP53,p.Ile251Leu,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,251,I,L,p.I251L
+181000,182935,single nucleotide variant,NM_000546.6(TP53):c.713G>A (p.Cys238Tyr),TP53,p.Cys238Tyr,Pathogenic/Likely pathogenic,pathogenic,de novo;germline;somatic;unknown,germline/somatic,238,C,Y,p.C238Y
+181005,182965,single nucleotide variant,NM_000546.6(TP53):c.646G>A (p.Val216Met),TP53,p.Val216Met,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,216,V,M,p.V216M
+181006,182933,single nucleotide variant,NM_000546.6(TP53):c.607G>A (p.Val203Met),TP53,p.Val203Met,Uncertain significance,vus,germline;unknown,germline,203,V,M,p.V203M
+181007,182932,single nucleotide variant,NM_000546.6(TP53):c.605G>T (p.Arg202Leu),TP53,p.Arg202Leu,Uncertain significance,vus,germline,germline,202,R,L,p.R202L
+181010,182963,single nucleotide variant,NM_000546.6(TP53):c.524G>T (p.Arg175Leu),TP53,p.Arg175Leu,Likely pathogenic,pathogenic,germline,germline,175,R,L,p.R175L
+181012,182961,Indel,NM_000546.6(TP53):c.475_476delinsTT (p.Ala159Phe),TP53,p.Ala159Phe,Uncertain significance,vus,germline,germline,159,A,F,p.A159F
+181015,182928,single nucleotide variant,NM_000546.6(TP53):c.380C>T (p.Ser127Phe),TP53,p.Ser127Phe,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,127,S,F,p.S127F
+181018,182926,single nucleotide variant,NM_000546.6(TP53):c.370T>A (p.Cys124Ser),TP53,p.Cys124Ser,Likely benign,benign,germline,germline,124,C,S,p.C124S
+181019,182925,single nucleotide variant,NM_000546.6(TP53):c.344A>G (p.His115Arg),TP53,p.His115Arg,Likely benign,benign,germline,germline,115,H,R,p.H115R
+181021,182924,single nucleotide variant,NM_000546.6(TP53):c.290T>A (p.Val97Asp),TP53,p.Val97Asp,Uncertain significance,vus,germline,germline,97,V,D,p.V97D
+181024,182946,single nucleotide variant,NM_000546.6(TP53):c.245C>T (p.Pro82Leu),TP53,p.Pro82Leu,Likely benign,benign,germline;unknown,germline,82,P,L,p.P82L
+181026,182953,Indel,NM_000546.6(TP53):c.214_215delinsTG (p.Pro72Cys),TP53,p.Pro72Cys,Uncertain significance,vus,germline;unknown,germline,72,P,C,p.P72C
+181027,182922,single nucleotide variant,NM_000546.6(TP53):c.188C>T (p.Ala63Val),TP53,p.Ala63Val,Benign,benign,germline;unknown,germline,63,A,V,p.A63V
+181028,182921,single nucleotide variant,NM_000546.6(TP53):c.106C>T (p.Pro36Ser),TP53,p.Pro36Ser,Uncertain significance,vus,germline,germline,36,P,S,p.P36S
+185334,186762,single nucleotide variant,NM_000546.6(TP53):c.1135C>A (p.Arg379Ser),TP53,p.Arg379Ser,Likely benign,benign,germline;unknown,germline,379,R,S,p.R379S
+185338,184745,single nucleotide variant,NM_000546.6(TP53):c.997C>T (p.Arg333Cys),TP53,p.Arg333Cys,Likely benign,benign,germline;maternal;unknown,germline,333,R,C,p.R333C
+185339,185212,single nucleotide variant,NM_000546.6(TP53):c.943T>A (p.Ser315Thr),TP53,p.Ser315Thr,Likely benign,benign,germline,germline,315,S,T,p.S315T
+185345,183752,single nucleotide variant,NM_000546.6(TP53):c.856G>A (p.Glu286Lys),TP53,p.Glu286Lys,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,286,E,K,p.E286K
+185349,185319,single nucleotide variant,NM_000546.6(TP53):c.827C>G (p.Ala276Gly),TP53,p.Ala276Gly,Pathogenic,pathogenic,germline,germline,276,A,G,p.A276G
+185350,185814,single nucleotide variant,NM_000546.6(TP53):c.814G>A (p.Val272Met),TP53,p.Val272Met,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,272,V,M,p.V272M
+185351,187005,single nucleotide variant,NM_000546.6(TP53):c.782G>C (p.Ser261Thr),TP53,p.Ser261Thr,Uncertain significance,vus,germline;not applicable,germline,261,S,T,p.S261T
+185356,186653,single nucleotide variant,NM_000546.6(TP53):c.727A>C (p.Met243Leu),TP53,p.Met243Leu,Uncertain significance,vus,germline,germline,243,M,L,p.M243L
+185360,184647,single nucleotide variant,NM_000546.6(TP53):c.661G>A (p.Glu221Lys),TP53,p.Glu221Lys,Uncertain significance,vus,germline;unknown,germline,221,E,K,p.E221K
+185367,184979,single nucleotide variant,NM_000546.6(TP53):c.578A>G (p.His193Arg),TP53,p.His193Arg,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,193,H,R,p.H193R
+185371,186451,single nucleotide variant,NM_000546.6(TP53):c.527G>A (p.Cys176Tyr),TP53,p.Cys176Tyr,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,176,C,Y,p.C176Y
+185374,184014,single nucleotide variant,NM_000546.6(TP53):c.509C>T (p.Thr170Met),TP53,p.Thr170Met,Likely benign,benign,germline;unknown,germline,170,T,M,p.T170M
+185377,185404,single nucleotide variant,NM_000546.6(TP53):c.469G>A (p.Val157Ile),TP53,p.Val157Ile,Likely benign,benign,germline;unknown,germline,157,V,I,p.V157I
+185381,186587,single nucleotide variant,NM_000546.6(TP53):c.436T>G (p.Trp146Gly),TP53,p.Trp146Gly,Uncertain significance,vus,germline,germline,146,W,G,p.W146G
+185385,185729,single nucleotide variant,NM_000546.6(TP53):c.427G>T (p.Val143Leu),TP53,p.Val143Leu,Uncertain significance,vus,germline,germline,143,V,L,p.V143L
+185387,184863,single nucleotide variant,NM_000546.6(TP53):c.413C>T (p.Ala138Val),TP53,p.Ala138Val,Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,138,A,V,p.A138V
+185390,186301,single nucleotide variant,NM_000546.6(TP53):c.408A>C (p.Gln136His),TP53,p.Gln136His,Uncertain significance,vus,germline,germline,136,Q,H,p.Q136H
+185405,185120,single nucleotide variant,NM_000546.6(TP53):c.215C>A (p.Pro72His),TP53,p.Pro72His,Benign,benign,germline;unknown,germline,72,P,H,p.P72H
+185410,187302,single nucleotide variant,NM_000546.6(TP53):c.149T>A (p.Ile50Asn),TP53,p.Ile50Asn,Uncertain significance,vus,germline,germline,50,I,N,p.I50N
+185412,186363,single nucleotide variant,NM_000546.6(TP53):c.145G>A (p.Asp49Asn),TP53,p.Asp49Asn,Benign,benign,germline;unknown,germline,49,D,N,p.D49N
+185425,187706,single nucleotide variant,NM_000546.6(TP53):c.8A>G (p.Glu3Gly),TP53,p.Glu3Gly,Uncertain significance,vus,germline,germline,3,E,G,p.E3G
+186272,188342,single nucleotide variant,NM_000546.6(TP53):c.1102C>T (p.His368Tyr),TP53,p.His368Tyr,Uncertain significance,vus,germline,germline,368,H,Y,p.H368Y
+186275,188349,single nucleotide variant,NM_000546.6(TP53):c.776A>G (p.Asp259Gly),TP53,p.Asp259Gly,Uncertain significance,vus,germline,germline,259,D,G,p.D259G
+186276,188206,single nucleotide variant,NM_000546.6(TP53):c.703A>T (p.Asn235Tyr),TP53,p.Asn235Tyr,Uncertain significance,vus,germline,germline,235,N,Y,p.N235Y
+186277,188060,single nucleotide variant,NM_000546.6(TP53):c.589G>A (p.Val197Met),TP53,p.Val197Met,Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,197,V,M,p.V197M
+213384,216463,single nucleotide variant,NM_000546.6(TP53):c.1136G>T (p.Arg379Leu),TP53,p.Arg379Leu,Likely benign,benign,germline;unknown,germline,379,R,L,p.R379L
+213385,215996,single nucleotide variant,NM_000546.6(TP53):c.1025G>C (p.Arg342Pro),TP53,p.Arg342Pro,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,342,R,P,p.R342P
+213389,216473,single nucleotide variant,NM_000546.6(TP53):c.904G>C (p.Gly302Arg),TP53,p.Gly302Arg,Uncertain significance,vus,germline,germline,302,G,R,p.G302R
+213390,216472,single nucleotide variant,NM_000546.6(TP53):c.868C>T (p.Arg290Cys),TP53,p.Arg290Cys,Likely benign,benign,germline;unknown,germline,290,R,C,p.R290C
+213391,216471,single nucleotide variant,NM_000546.6(TP53):c.851C>T (p.Thr284Ile),TP53,p.Thr284Ile,Likely benign,benign,germline;unknown,germline,284,T,I,p.T284I
+213392,215997,single nucleotide variant,NM_000546.6(TP53):c.824G>A (p.Cys275Tyr),TP53,p.Cys275Tyr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,275,C,Y,p.C275Y
+213394,216469,single nucleotide variant,NM_000546.6(TP53):c.706T>C (p.Tyr236His),TP53,p.Tyr236His,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,236,Y,H,p.Y236H
+213396,216468,single nucleotide variant,NM_000546.6(TP53):c.589G>T (p.Val197Leu),TP53,p.Val197Leu,Uncertain significance,vus,germline,germline,197,V,L,p.V197L
+213397,216467,single nucleotide variant,NM_000546.6(TP53):c.587G>A (p.Arg196Gln),TP53,p.Arg196Gln,Uncertain significance,vus,germline;unknown,germline,196,R,Q,p.R196Q
+213398,216077,single nucleotide variant,NM_000546.6(TP53):c.584T>C (p.Ile195Thr),TP53,p.Ile195Thr,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,195,I,T,p.I195T
+213402,216465,single nucleotide variant,NM_000546.6(TP53):c.374C>A (p.Thr125Lys),TP53,p.Thr125Lys,Pathogenic,pathogenic,germline,germline,125,T,K,p.T125K
+213405,216464,single nucleotide variant,NM_000546.6(TP53):c.149T>C (p.Ile50Thr),TP53,p.Ile50Thr,Likely benign,benign,germline;unknown,germline,50,I,T,p.I50T
+222735,219969,single nucleotide variant,NM_000546.6(TP53):c.932A>C (p.Asn311Thr),TP53,p.Asn311Thr,Uncertain significance,vus,germline,germline,311,N,T,p.N311T
+222738,219759,single nucleotide variant,NM_000546.6(TP53):c.700T>G (p.Tyr234Asp),TP53,p.Tyr234Asp,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,234,Y,D,p.Y234D
+222740,219487,single nucleotide variant,NM_000546.6(TP53):c.520A>G (p.Arg174Gly),TP53,p.Arg174Gly,Uncertain significance,vus,germline,germline,174,R,G,p.R174G
+222742,219532,single nucleotide variant,NM_000546.6(TP53):c.380C>G (p.Ser127Cys),TP53,p.Ser127Cys,Pathogenic,pathogenic,germline,germline,127,S,C,p.S127C
+232035,233951,single nucleotide variant,NM_000546.6(TP53):c.517G>A (p.Val173Met),TP53,p.Val173Met,Pathogenic,pathogenic,germline;not applicable;somatic;unknown,germline/somatic,173,V,M,p.V173M
+236436,230269,single nucleotide variant,NM_000546.6(TP53):c.1120G>C (p.Gly374Arg),TP53,p.Gly374Arg,Benign,benign,germline,germline,374,G,R,p.G374R
+236439,231953,single nucleotide variant,NM_000546.6(TP53):c.1099A>G (p.Ser367Gly),TP53,p.Ser367Gly,Uncertain significance,vus,germline,germline,367,S,G,p.S367G
+236440,233244,single nucleotide variant,NM_000546.6(TP53):c.1088G>A (p.Arg363Lys),TP53,p.Arg363Lys,Uncertain significance,vus,germline,germline,363,R,K,p.R363K
+236443,234059,single nucleotide variant,NM_000546.6(TP53):c.1066G>C (p.Gly356Arg),TP53,p.Gly356Arg,Likely benign,benign,germline;unknown,germline,356,G,R,p.G356R
+236444,231485,single nucleotide variant,NM_000546.6(TP53):c.1060C>A (p.Gln354Lys),TP53,p.Gln354Lys,Benign,benign,germline;unknown,germline,354,Q,K,p.Q354K
+236445,233136,single nucleotide variant,NM_000546.6(TP53):c.1025G>A (p.Arg342Gln),TP53,p.Arg342Gln,Likely benign,benign,germline,germline,342,R,Q,p.R342Q
+236449,231553,single nucleotide variant,NM_000546.6(TP53):c.964C>A (p.Pro322Thr),TP53,p.Pro322Thr,Uncertain significance,vus,germline,germline,322,P,T,p.P322T
+236450,231008,single nucleotide variant,NM_000546.6(TP53):c.949C>A (p.Gln317Lys),TP53,p.Gln317Lys,Benign,benign,germline;unknown,germline,317,Q,K,p.Q317K
+236451,230382,single nucleotide variant,NM_000546.6(TP53):c.946C>A (p.Pro316Thr),TP53,p.Pro316Thr,Likely benign,benign,germline,germline,316,P,T,p.P316T
+236456,231990,single nucleotide variant,NM_000546.6(TP53):c.890A>G (p.His297Arg),TP53,p.His297Arg,Uncertain significance,vus,germline,germline,297,H,R,p.H297R
+236459,232497,single nucleotide variant,NM_000546.6(TP53):c.833C>T (p.Pro278Leu),TP53,p.Pro278Leu,Pathogenic,pathogenic,germline;somatic,germline/somatic,278,P,L,p.P278L
+236461,231060,single nucleotide variant,NM_000546.6(TP53):c.818G>C (p.Arg273Pro),TP53,p.Arg273Pro,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,273,R,P,p.R273P
+236465,231033,single nucleotide variant,NM_000546.6(TP53):c.779C>A (p.Ser260Tyr),TP53,p.Ser260Tyr,Likely benign,benign,germline,germline,260,S,Y,p.S260Y
+236469,230253,single nucleotide variant,NM_000546.6(TP53):c.743G>T (p.Arg248Leu),TP53,p.Arg248Leu,Pathogenic,pathogenic,germline;unknown,germline,248,R,L,p.R248L
+236473,234214,single nucleotide variant,NM_000546.6(TP53):c.668C>T (p.Pro223Leu),TP53,p.Pro223Leu,Uncertain significance,vus,germline,germline,223,P,L,p.P223L
+236476,230254,single nucleotide variant,NM_000546.6(TP53):c.640C>A (p.His214Asn),TP53,p.His214Asn,Uncertain significance,vus,germline,germline,214,H,N,p.H214N
+236477,231214,single nucleotide variant,NM_000546.6(TP53):c.638G>C (p.Arg213Pro),TP53,p.Arg213Pro,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,213,R,P,p.R213P
+236479,231165,single nucleotide variant,NM_000546.6(TP53):c.587G>C (p.Arg196Pro),TP53,p.Arg196Pro,Pathogenic/Likely pathogenic,pathogenic,germline;not applicable;somatic;unknown,germline/somatic,196,R,P,p.R196P
+236481,230256,single nucleotide variant,NM_000546.6(TP53):c.577C>T (p.His193Tyr),TP53,p.His193Tyr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,193,H,Y,p.H193Y
+236483,233197,single nucleotide variant,NM_000546.6(TP53):c.568C>A (p.Pro190Thr),TP53,p.Pro190Thr,Uncertain significance,vus,germline,germline,190,P,T,p.P190T
+236484,230006,single nucleotide variant,NM_000546.6(TP53):c.558T>A (p.Asp186Glu),TP53,p.Asp186Glu,Likely benign,benign,germline,germline,186,D,E,p.D186E
+236486,230764,single nucleotide variant,NM_000546.6(TP53):c.541C>A (p.Arg181Ser),TP53,p.Arg181Ser,Uncertain significance,vus,germline,germline,181,R,S,p.R181S
+236488,230758,single nucleotide variant,NM_000546.6(TP53):c.480G>A (p.Met160Ile),TP53,p.Met160Ile,Likely benign,benign,germline,germline,160,M,I,p.M160I
+236493,230477,single nucleotide variant,NM_000546.6(TP53):c.401T>G (p.Phe134Cys),TP53,p.Phe134Cys,Likely pathogenic,pathogenic,germline;unknown,germline,134,F,C,p.F134C
+236494,230661,single nucleotide variant,NM_000546.6(TP53):c.370T>G (p.Cys124Gly),TP53,p.Cys124Gly,Uncertain significance,vus,germline,germline,124,C,G,p.C124G
+236497,233627,single nucleotide variant,NM_000546.6(TP53):c.329G>C (p.Arg110Pro),TP53,p.Arg110Pro,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,110,R,P,p.R110P
+236508,230112,single nucleotide variant,NM_000546.6(TP53):c.206C>G (p.Ala69Gly),TP53,p.Ala69Gly,Uncertain significance,vus,germline,germline,69,A,G,p.A69G
+236509,229693,single nucleotide variant,NM_000546.6(TP53):c.188C>G (p.Ala63Gly),TP53,p.Ala63Gly,Likely benign,benign,germline;unknown,germline,63,A,G,p.A63G
+236510,231015,single nucleotide variant,NM_000546.6(TP53):c.187G>A (p.Ala63Thr),TP53,p.Ala63Thr,Likely benign,benign,germline,germline,63,A,T,p.A63T
+236514,232223,single nucleotide variant,NM_000546.6(TP53):c.136T>C (p.Ser46Pro),TP53,p.Ser46Pro,Uncertain significance,vus,germline,germline,46,S,P,p.S46P
+236515,233852,single nucleotide variant,NM_000546.6(TP53):c.91G>T (p.Val31Phe),TP53,p.Val31Phe,Uncertain significance,vus,germline,germline,31,V,F,p.V31F
+236516,232673,single nucleotide variant,NM_000546.6(TP53):c.58T>C (p.Ser20Pro),TP53,p.Ser20Pro,Uncertain significance,vus,germline,germline,20,S,P,p.S20P
+236519,231387,single nucleotide variant,NM_000546.6(TP53):c.28G>C (p.Val10Leu),TP53,p.Val10Leu,Likely benign,benign,germline,germline,10,V,L,p.V10L
+236520,231868,single nucleotide variant,NM_000546.6(TP53):c.23C>T (p.Pro8Leu),TP53,p.Pro8Leu,Likely benign,benign,germline,germline,8,P,L,p.P8L
+242977,237938,single nucleotide variant,NM_000546.6(TP53):c.1009C>G (p.Arg337Gly),TP53,p.Arg337Gly,Likely pathogenic,pathogenic,germline,germline,337,R,G,p.R337G
+242980,237954,single nucleotide variant,NM_000546.6(TP53):c.743G>C (p.Arg248Pro),TP53,p.Arg248Pro,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,248,R,P,p.R248P
+242984,237950,single nucleotide variant,NM_000546.6(TP53):c.461G>A (p.Gly154Asp),TP53,p.Gly154Asp,Uncertain significance,vus,germline;somatic;unknown,germline/somatic,154,G,D,p.G154D
+242986,237947,single nucleotide variant,NM_000546.6(TP53):c.303A>T (p.Lys101Asn),TP53,p.Lys101Asn,Uncertain significance,vus,germline,germline,101,K,N,p.K101N
+242990,237943,single nucleotide variant,NM_000546.6(TP53):c.212C>G (p.Pro71Arg),TP53,p.Pro71Arg,Uncertain significance,vus,germline,germline,71,P,R,p.P71R
+242991,237942,single nucleotide variant,NM_000546.6(TP53):c.155A>G (p.Gln52Arg),TP53,p.Gln52Arg,Uncertain significance,vus,germline,germline,52,Q,R,p.Q52R
+242994,237941,single nucleotide variant,NM_000546.6(TP53):c.11C>T (p.Pro4Leu),TP53,p.Pro4Leu,Likely benign,benign,germline;unknown,germline,4,P,L,p.P4L
+245067,246221,single nucleotide variant,NM_000546.6(TP53):c.1136G>A (p.Arg379His),TP53,p.Arg379His,Likely benign,benign,germline;unknown,germline,379,R,H,p.R379H
+245069,245777,single nucleotide variant,NM_000546.6(TP53):c.794T>C (p.Leu265Pro),TP53,p.Leu265Pro,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,265,L,P,p.L265P
+245073,245711,single nucleotide variant,NM_000546.6(TP53):c.538G>A (p.Glu180Lys),TP53,p.Glu180Lys,Likely pathogenic,pathogenic,germline,germline,180,E,K,p.E180K
+245074,245851,single nucleotide variant,NM_000546.6(TP53):c.523C>T (p.Arg175Cys),TP53,p.Arg175Cys,Uncertain significance,vus,germline;unknown,germline,175,R,C,p.R175C
+245075,246416,single nucleotide variant,NM_000546.6(TP53):c.490A>G (p.Lys164Glu),TP53,p.Lys164Glu,Pathogenic,pathogenic,germline;unknown,germline,164,K,E,p.K164E
+245076,246118,single nucleotide variant,NM_000546.6(TP53):c.473G>C (p.Arg158Pro),TP53,p.Arg158Pro,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,158,R,P,p.R158P
+245078,246429,single nucleotide variant,NM_000546.6(TP53):c.393C>A (p.Asn131Lys),TP53,p.Asn131Lys,Uncertain significance,vus,germline;unknown,germline,131,N,K,p.N131K
+245079,246049,single nucleotide variant,NM_000546.6(TP53):c.134T>C (p.Leu45Pro),TP53,p.Leu45Pro,Uncertain significance,vus,germline,germline,45,L,P,p.L45P
+360335,372785,single nucleotide variant,NM_000546.6(TP53):c.731G>A (p.Gly244Asp),TP53,p.Gly244Asp,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,244,G,D,p.G244D
+362894,376015,single nucleotide variant,NM_000546.6(TP53):c.746G>C (p.Arg249Thr),TP53,p.Arg249Thr,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,249,R,T,p.R249T
+362896,376017,single nucleotide variant,NM_000546.6(TP53):c.518T>C (p.Val173Ala),TP53,p.Val173Ala,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,173,V,A,p.V173A
+363438,376559,single nucleotide variant,NM_000546.6(TP53):c.404G>T (p.Cys135Phe),TP53,p.Cys135Phe,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,135,C,F,p.C135F
+363439,376560,single nucleotide variant,NM_000546.6(TP53):c.403T>C (p.Cys135Arg),TP53,p.Cys135Arg,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,135,C,R,p.C135R
+363442,376563,single nucleotide variant,NM_000546.6(TP53):c.403T>G (p.Cys135Gly),TP53,p.Cys135Gly,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,135,C,G,p.C135G
+363443,376564,single nucleotide variant,NM_000546.6(TP53):c.423C>G (p.Cys141Trp),TP53,p.Cys141Trp,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,141,C,W,p.C141W
+363448,376569,single nucleotide variant,NM_000546.6(TP53):c.527G>T (p.Cys176Phe),TP53,p.Cys176Phe,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,176,C,F,p.C176F
+363453,376574,single nucleotide variant,NM_000546.6(TP53):c.713G>T (p.Cys238Phe),TP53,p.Cys238Phe,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,238,C,F,p.C238F
+363454,376575,single nucleotide variant,NM_000546.6(TP53):c.713G>C (p.Cys238Ser),TP53,p.Cys238Ser,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,238,C,S,p.C238S
+363455,376576,single nucleotide variant,NM_000546.6(TP53):c.712T>C (p.Cys238Arg),TP53,p.Cys238Arg,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,238,C,R,p.C238R
+363456,376577,single nucleotide variant,NM_000546.6(TP53):c.712T>G (p.Cys238Gly),TP53,p.Cys238Gly,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,238,C,G,p.C238G
+363459,376580,single nucleotide variant,NM_000546.6(TP53):c.726C>G (p.Cys242Trp),TP53,p.Cys242Trp,Pathogenic,pathogenic,germline,germline,242,C,W,p.C242W
+363461,376582,single nucleotide variant,NM_000546.6(TP53):c.824G>T (p.Cys275Phe),TP53,p.Cys275Phe,Pathogenic,pathogenic,germline;somatic,germline/somatic,275,C,F,p.C275F
+363464,376585,single nucleotide variant,NM_000546.6(TP53):c.841G>T (p.Asp281Tyr),TP53,p.Asp281Tyr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,281,D,Y,p.D281Y
+363465,376586,single nucleotide variant,NM_000546.6(TP53):c.841G>A (p.Asp281Asn),TP53,p.Asp281Asn,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,281,D,N,p.D281N
+363467,376588,single nucleotide variant,NM_000546.6(TP53):c.841G>C (p.Asp281His),TP53,p.Asp281His,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,281,D,H,p.D281H
+363468,376589,single nucleotide variant,NM_000546.6(TP53):c.842A>C (p.Asp281Ala),TP53,p.Asp281Ala,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,281,D,A,p.D281A
+363473,376594,single nucleotide variant,NM_000546.6(TP53):c.809T>C (p.Phe270Ser),TP53,p.Phe270Ser,Pathogenic/Likely pathogenic,pathogenic,germline,germline,270,F,S,p.F270S
+363476,376597,single nucleotide variant,NM_000546.6(TP53):c.809T>G (p.Phe270Cys),TP53,p.Phe270Cys,Likely pathogenic,pathogenic,germline;not applicable;unknown,germline,270,F,C,p.F270C
+363477,376598,single nucleotide variant,NM_000546.6(TP53):c.808T>G (p.Phe270Val),TP53,p.Phe270Val,Pathogenic,pathogenic,germline;somatic,germline/somatic,270,F,V,p.F270V
+363479,376600,single nucleotide variant,NM_000546.6(TP53):c.730G>A (p.Gly244Ser),TP53,p.Gly244Ser,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,244,G,S,p.G244S
+363481,3634428,single nucleotide variant,NM_000546.6(TP53):c.730G>C (p.Gly244Arg),TP53,p.Gly244Arg,Uncertain significance,vus,germline,germline,244,G,R,p.G244R
+363482,376603,single nucleotide variant,NM_000546.6(TP53):c.734G>T (p.Gly245Val),TP53,p.Gly245Val,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,245,G,V,p.G245V
+363484,376605,single nucleotide variant,NM_000546.6(TP53):c.796G>C (p.Gly266Arg),TP53,p.Gly266Arg,Pathogenic,pathogenic,germline,germline,266,G,R,p.G266R
+363486,376607,single nucleotide variant,NM_000546.6(TP53):c.537T>G (p.His179Gln),TP53,p.His179Gln,Pathogenic/Likely pathogenic,pathogenic,germline;paternal;unknown,germline,179,H,Q,p.H179Q
+363489,376610,single nucleotide variant,NM_000546.6(TP53):c.535C>G (p.His179Asp),TP53,p.His179Asp,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,179,H,D,p.H179D
+363491,376612,single nucleotide variant,NM_000546.6(TP53):c.578A>C (p.His193Pro),TP53,p.His193Pro,Pathogenic,pathogenic,germline,germline,193,H,P,p.H193P
+363493,3460301,single nucleotide variant,NM_000546.6(TP53):c.577C>A (p.His193Asn),TP53,p.His193Asn,Pathogenic/Likely pathogenic,pathogenic,germline,germline,193,H,N,p.H193N
+363494,376615,single nucleotide variant,NM_000546.6(TP53):c.641A>G (p.His214Arg),TP53,p.His214Arg,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,214,H,R,p.H214R
+363495,376616,single nucleotide variant,NM_000546.6(TP53):c.641A>T (p.His214Leu),TP53,p.His214Leu,Likely pathogenic,pathogenic,germline,germline,214,H,L,p.H214L
+363499,376620,single nucleotide variant,NM_000546.6(TP53):c.585C>G (p.Ile195Met),TP53,p.Ile195Met,Uncertain significance,vus,germline,germline,195,I,M,p.I195M
+363501,376622,single nucleotide variant,NM_000546.6(TP53):c.764T>G (p.Ile255Ser),TP53,p.Ile255Ser,Uncertain significance,vus,germline;somatic,germline/somatic,255,I,S,p.I255S
+363502,376623,single nucleotide variant,NM_000546.6(TP53):c.764T>C (p.Ile255Thr),TP53,p.Ile255Thr,Uncertain significance,vus,germline,germline,255,I,T,p.I255T
+363503,376624,single nucleotide variant,NM_000546.6(TP53):c.396G>C (p.Lys132Asn),TP53,p.Lys132Asn,Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,132,K,N,p.K132N
+363504,376625,single nucleotide variant,NM_000546.6(TP53):c.395A>G (p.Lys132Arg),TP53,p.Lys132Arg,Pathogenic/Likely pathogenic,pathogenic,germline;not applicable;somatic;unknown,germline/somatic,132,K,R,p.K132R
+363509,376630,single nucleotide variant,NM_000546.6(TP53):c.332T>C (p.Leu111Pro),TP53,p.Leu111Pro,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,111,L,P,p.L111P
+363510,376631,single nucleotide variant,NM_000546.6(TP53):c.332T>G (p.Leu111Arg),TP53,p.Leu111Arg,Likely pathogenic,pathogenic,germline,germline,111,L,R,p.L111R
+363511,376632,single nucleotide variant,NM_000546.6(TP53):c.332T>A (p.Leu111Gln),TP53,p.Leu111Gln,Pathogenic,pathogenic,germline;unknown,germline,111,L,Q,p.L111Q
+363514,376635,single nucleotide variant,NM_000546.6(TP53):c.581T>C (p.Leu194Pro),TP53,p.Leu194Pro,Uncertain significance,vus,germline;somatic,germline/somatic,194,L,P,p.L194P
+363515,376636,single nucleotide variant,NM_000546.6(TP53):c.710T>A (p.Met237Lys),TP53,p.Met237Lys,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,237,M,K,p.M237K
+363516,376637,single nucleotide variant,NM_000546.6(TP53):c.716A>G (p.Asn239Ser),TP53,p.Asn239Ser,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,239,N,S,p.N239S
+363518,376639,single nucleotide variant,NM_000546.6(TP53):c.452C>A (p.Pro151His),TP53,p.Pro151His,Uncertain significance,vus,germline;somatic,germline/somatic,151,P,H,p.P151H
+363519,376640,single nucleotide variant,NM_000546.6(TP53):c.452C>G (p.Pro151Arg),TP53,p.Pro151Arg,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,151,P,R,p.P151R
+363520,376641,single nucleotide variant,NM_000546.6(TP53):c.451C>G (p.Pro151Ala),TP53,p.Pro151Ala,Pathogenic,pathogenic,germline,germline,151,P,A,p.P151A
+363521,376642,single nucleotide variant,NM_000546.6(TP53):c.832C>T (p.Pro278Ser),TP53,p.Pro278Ser,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,278,P,S,p.P278S
+363522,376643,single nucleotide variant,NM_000546.6(TP53):c.832C>A (p.Pro278Thr),TP53,p.Pro278Thr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,278,P,T,p.P278T
+363526,376647,single nucleotide variant,NM_000546.6(TP53):c.431A>T (p.Gln144Leu),TP53,p.Gln144Leu,Uncertain significance,vus,germline,germline,144,Q,L,p.Q144L
+363527,376648,single nucleotide variant,NM_000546.6(TP53):c.432G>T (p.Gln144His),TP53,p.Gln144His,Uncertain significance,vus,germline;somatic,germline/somatic,144,Q,H,p.Q144H
+363528,376649,single nucleotide variant,NM_000546.6(TP53):c.523C>G (p.Arg175Gly),TP53,p.Arg175Gly,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,175,R,G,p.R175G
+363531,376652,single nucleotide variant,NM_000546.6(TP53):c.742C>G (p.Arg248Gly),TP53,p.Arg248Gly,Pathogenic/Likely pathogenic,pathogenic,germline;inherited;unknown,germline,248,R,G,p.R248G
+363534,376655,single nucleotide variant,NM_000546.6(TP53):c.818G>T (p.Arg273Leu),TP53,p.Arg273Leu,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,273,R,L,p.R273L
+363535,376656,single nucleotide variant,NM_000546.6(TP53):c.817C>A (p.Arg273Ser),TP53,p.Arg273Ser,Pathogenic,pathogenic,germline;not applicable;unknown,germline,273,R,S,p.R273S
+363538,376659,single nucleotide variant,NM_000546.6(TP53):c.845G>C (p.Arg282Pro),TP53,p.Arg282Pro,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,282,R,P,p.R282P
+363542,376663,single nucleotide variant,NM_000546.6(TP53):c.722C>A (p.Ser241Tyr),TP53,p.Ser241Tyr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,241,S,Y,p.S241Y
+363543,376664,single nucleotide variant,NM_000546.6(TP53):c.721T>C (p.Ser241Pro),TP53,p.Ser241Pro,Uncertain significance,vus,germline;somatic,germline/somatic,241,S,P,p.S241P
+363544,376665,single nucleotide variant,NM_000546.6(TP53):c.721T>G (p.Ser241Ala),TP53,p.Ser241Ala,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,241,S,A,p.S241A
+363546,376667,single nucleotide variant,NM_000546.6(TP53):c.374C>G (p.Thr125Arg),TP53,p.Thr125Arg,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,125,T,R,p.T125R
+363547,376668,single nucleotide variant,NM_000546.6(TP53):c.517G>T (p.Val173Leu),TP53,p.Val173Leu,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,173,V,L,p.V173L
+363551,376672,single nucleotide variant,NM_000546.6(TP53):c.647T>A (p.Val216Glu),TP53,p.Val216Glu,Uncertain significance,vus,germline;not applicable,germline,216,V,E,p.V216E
+363559,376680,single nucleotide variant,NM_000546.6(TP53):c.487T>C (p.Tyr163His),TP53,p.Tyr163His,Pathogenic,pathogenic,germline;unknown,germline,163,Y,H,p.Y163H
+363560,376681,single nucleotide variant,NM_000546.6(TP53):c.614A>G (p.Tyr205Cys),TP53,p.Tyr205Cys,Pathogenic,pathogenic,germline;unknown,germline,205,Y,C,p.Y205C
+363562,3634430,single nucleotide variant,NM_000546.6(TP53):c.614A>C (p.Tyr205Ser),TP53,p.Tyr205Ser,Uncertain significance,vus,germline,germline,205,Y,S,p.Y205S
+363564,376685,single nucleotide variant,NM_000546.6(TP53):c.613T>C (p.Tyr205His),TP53,p.Tyr205His,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,205,Y,H,p.Y205H
+363565,376686,single nucleotide variant,NM_000546.6(TP53):c.613T>G (p.Tyr205Asp),TP53,p.Tyr205Asp,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,205,Y,D,p.Y205D
+363566,376687,single nucleotide variant,NM_000546.6(TP53):c.658T>C (p.Tyr220His),TP53,p.Tyr220His,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,220,Y,H,p.Y220H
+363570,376691,single nucleotide variant,NM_000546.6(TP53):c.700T>C (p.Tyr234His),TP53,p.Tyr234His,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,234,Y,H,p.Y234H
+363571,376692,single nucleotide variant,NM_000546.6(TP53):c.700T>A (p.Tyr234Asn),TP53,p.Tyr234Asn,Pathogenic/Likely pathogenic,pathogenic,germline,germline,234,Y,N,p.Y234N
+402539,406586,single nucleotide variant,NM_000546.6(TP53):c.736A>T (p.Met246Leu),TP53,p.Met246Leu,Uncertain significance,vus,germline,germline,246,M,L,p.M246L
+402550,406594,Indel,NM_000546.6(TP53):c.870_871delinsAC (p.Lys291Gln),TP53,p.Lys291Gln,Uncertain significance,vus,germline,germline,291,K,Q,p.K291Q
+402557,406605,single nucleotide variant,NM_000546.6(TP53):c.760A>G (p.Ile254Val),TP53,p.Ile254Val,Likely benign,benign,germline;unknown,germline,254,I,V,p.I254V
+402562,406601,single nucleotide variant,NM_000546.6(TP53):c.556G>A (p.Asp186Asn),TP53,p.Asp186Asn,Likely benign,benign,germline;unknown,germline,186,D,N,p.D186N
+402565,406564,single nucleotide variant,NM_000546.6(TP53):c.464C>A (p.Thr155Asn),TP53,p.Thr155Asn,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,155,T,N,p.T155N
+402569,406597,single nucleotide variant,NM_000546.6(TP53):c.329G>T (p.Arg110Leu),TP53,p.Arg110Leu,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,110,R,L,p.R110L
+402583,406581,single nucleotide variant,NM_000546.6(TP53):c.631A>G (p.Thr211Ala),TP53,p.Thr211Ala,Uncertain significance,vus,germline,germline,211,T,A,p.T211A
+402592,406588,single nucleotide variant,NM_000546.6(TP53):c.628A>T (p.Asn210Tyr),TP53,p.Asn210Tyr,Uncertain significance,vus,germline,germline,210,N,Y,p.N210Y
+402599,406572,single nucleotide variant,NM_000546.6(TP53):c.319T>A (p.Tyr107Asn),TP53,p.Tyr107Asn,Uncertain significance,vus,germline,germline,107,Y,N,p.Y107N
+402601,406574,single nucleotide variant,NM_000546.6(TP53):c.313G>C (p.Gly105Arg),TP53,p.Gly105Arg,Pathogenic/Likely pathogenic,pathogenic,germline,germline,105,G,R,p.G105R
+402994,406575,single nucleotide variant,NM_000546.6(TP53):c.1151T>C (p.Met384Thr),TP53,p.Met384Thr,Benign,benign,germline;unknown,germline,384,M,T,p.M384T
+403000,406571,single nucleotide variant,NM_000546.6(TP53):c.1042T>G (p.Leu348Val),TP53,p.Leu348Val,Uncertain significance,vus,germline,germline,348,L,V,p.L348V
+403007,406568,single nucleotide variant,NM_000546.6(TP53):c.843C>A (p.Asp281Glu),TP53,p.Asp281Glu,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,281,D,E,p.D281E
+403043,406607,single nucleotide variant,NM_000546.6(TP53):c.194G>C (p.Arg65Thr),TP53,p.Arg65Thr,Uncertain significance,vus,germline,germline,65,R,T,p.R65T
+403145,406577,single nucleotide variant,NM_000546.6(TP53):c.875A>G (p.Lys292Arg),TP53,p.Lys292Arg,Likely benign,benign,germline,germline,292,K,R,p.K292R
+403154,406606,single nucleotide variant,NM_000546.6(TP53):c.551A>G (p.Asp184Gly),TP53,p.Asp184Gly,Uncertain significance,vus,germline,germline,184,D,G,p.D184G
+403155,406593,single nucleotide variant,NM_000546.6(TP53):c.238C>T (p.Pro80Ser),TP53,p.Pro80Ser,Uncertain significance,vus,germline,germline,80,P,S,p.P80S
+403166,406604,single nucleotide variant,NM_000546.6(TP53):c.37C>T (p.Pro13Ser),TP53,p.Pro13Ser,Uncertain significance,vus,germline,germline,13,P,S,p.P13S
+410249,422725,single nucleotide variant,NM_000546.6(TP53):c.1040C>T (p.Ala347Val),TP53,p.Ala347Val,Uncertain significance,vus,germline,germline,347,A,V,p.A347V
+410250,423398,single nucleotide variant,NM_000546.6(TP53):c.1013T>C (p.Phe338Ser),TP53,p.Phe338Ser,Uncertain significance,vus,germline,germline,338,F,S,p.F338S
+410258,420133,single nucleotide variant,NM_000546.6(TP53):c.853G>A (p.Glu285Lys),TP53,p.Glu285Lys,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,285,E,K,p.E285K
+410263,420136,single nucleotide variant,NM_000546.6(TP53):c.749C>T (p.Pro250Leu),TP53,p.Pro250Leu,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,250,P,L,p.P250L
+410264,419524,single nucleotide variant,NM_000546.6(TP53):c.710T>G (p.Met237Arg),TP53,p.Met237Arg,Uncertain significance,vus,germline,germline,237,M,R,p.M237R
+410267,422414,single nucleotide variant,NM_000546.6(TP53):c.634T>A (p.Phe212Ile),TP53,p.Phe212Ile,Uncertain significance,vus,germline,germline,212,F,I,p.F212I
+410268,418517,single nucleotide variant,NM_000546.6(TP53):c.569C>T (p.Pro190Leu),TP53,p.Pro190Leu,Likely pathogenic,pathogenic,germline;unknown,germline,190,P,L,p.P190L
+410269,422532,single nucleotide variant,NM_000546.6(TP53):c.560G>A (p.Gly187Asp),TP53,p.Gly187Asp,Uncertain significance,vus,germline,germline,187,G,D,p.G187D
+410270,423137,single nucleotide variant,NM_000546.6(TP53):c.546C>G (p.Cys182Trp),TP53,p.Cys182Trp,Uncertain significance,vus,germline,germline,182,C,W,p.C182W
+410271,421546,single nucleotide variant,NM_000546.6(TP53):c.532C>A (p.His178Asn),TP53,p.His178Asn,Uncertain significance,vus,germline,germline,178,H,N,p.H178N
+410272,423887,single nucleotide variant,NM_000546.6(TP53):c.521G>A (p.Arg174Lys),TP53,p.Arg174Lys,Likely benign,benign,germline,germline,174,R,K,p.R174K
+410277,423255,single nucleotide variant,NM_000546.6(TP53):c.358A>C (p.Lys120Gln),TP53,p.Lys120Gln,Uncertain significance,vus,germline,germline,120,K,Q,p.K120Q
+410278,419837,single nucleotide variant,NM_000546.6(TP53):c.353C>T (p.Thr118Ile),TP53,p.Thr118Ile,Likely benign,benign,germline;unknown,germline,118,T,I,p.T118I
+410280,423970,single nucleotide variant,NM_000546.6(TP53):c.326T>C (p.Phe109Ser),TP53,p.Phe109Ser,Uncertain significance,vus,germline;unknown,germline,109,F,S,p.F109S
+420637,428876,single nucleotide variant,NM_000546.6(TP53):c.1000G>T (p.Gly334Trp),TP53,p.Gly334Trp,Likely pathogenic,pathogenic,germline,germline,334,G,W,p.G334W
+420640,428879,single nucleotide variant,NM_000546.6(TP53):c.930C>G (p.Asn310Lys),TP53,p.Asn310Lys,Likely benign,benign,germline,germline,310,N,K,p.N310K
+420643,428862,single nucleotide variant,NM_000546.6(TP53):c.883C>T (p.Pro295Ser),TP53,p.Pro295Ser,Likely benign,benign,germline,germline,295,P,S,p.P295S
+420651,428892,single nucleotide variant,NM_000546.6(TP53):c.671A>C (p.Glu224Ala),TP53,p.Glu224Ala,Uncertain significance,vus,germline,germline,224,E,A,p.E224A
+420657,428883,single nucleotide variant,NM_000546.6(TP53):c.515T>G (p.Val172Gly),TP53,p.Val172Gly,Uncertain significance,vus,germline,germline,172,V,G,p.V172G
+420660,428899,single nucleotide variant,NM_000546.6(TP53):c.492G>C (p.Lys164Asn),TP53,p.Lys164Asn,Uncertain significance,vus,germline,germline,164,K,N,p.K164N
+420665,428902,single nucleotide variant,NM_000546.6(TP53):c.392A>T (p.Asn131Ile),TP53,p.Asn131Ile,Pathogenic/Likely pathogenic,pathogenic,germline;not applicable;unknown,germline,131,N,I,p.N131I
+420666,428873,single nucleotide variant,NM_000546.6(TP53):c.389T>C (p.Leu130Pro),TP53,p.Leu130Pro,Pathogenic,pathogenic,germline;unknown,germline,130,L,P,p.L130P
+420671,428884,single nucleotide variant,NM_000546.6(TP53):c.313G>A (p.Gly105Ser),TP53,p.Gly105Ser,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,105,G,S,p.G105S
+432939,439315,single nucleotide variant,NM_000546.6(TP53):c.1115A>C (p.Lys372Thr),TP53,p.Lys372Thr,Uncertain significance,vus,germline,germline,372,K,T,p.K372T
+445903,451799,single nucleotide variant,NM_000546.6(TP53):c.596G>T (p.Gly199Val),TP53,p.Gly199Val,Likely pathogenic,pathogenic,germline;not applicable;somatic,germline/somatic,199,G,V,p.G199V
+467489,458583,single nucleotide variant,NM_000546.6(TP53):c.996C>G (p.Ile332Met),TP53,p.Ile332Met,Uncertain significance,vus,germline,germline,332,I,M,p.I332M
+467518,458560,single nucleotide variant,NM_000546.6(TP53):c.731G>C (p.Gly244Ala),TP53,p.Gly244Ala,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,244,G,A,p.G244A
+467533,458559,single nucleotide variant,NM_000546.6(TP53):c.720T>G (p.Ser240Arg),TP53,p.Ser240Arg,Uncertain significance,vus,germline,germline,240,S,R,p.S240R
+467544,458545,single nucleotide variant,NM_000546.6(TP53):c.476C>T (p.Ala159Val),TP53,p.Ala159Val,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,159,A,V,p.A159V
+467552,458530,single nucleotide variant,NM_000546.6(TP53):c.245C>G (p.Pro82Arg),TP53,p.Pro82Arg,Uncertain significance,vus,germline,germline,82,P,R,p.P82R
+468370,458513,single nucleotide variant,NM_000546.6(TP53):c.1052A>G (p.Lys351Arg),TP53,p.Lys351Arg,Uncertain significance,vus,germline,germline,351,K,R,p.K351R
+468375,458572,single nucleotide variant,NM_000546.6(TP53):c.869G>C (p.Arg290Pro),TP53,p.Arg290Pro,Uncertain significance,vus,germline,germline,290,R,P,p.R290P
+468390,458547,single nucleotide variant,NM_000546.6(TP53):c.530C>G (p.Pro177Arg),TP53,p.Pro177Arg,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,177,P,R,p.P177R
+469099,458521,single nucleotide variant,NM_000546.6(TP53):c.1151T>G (p.Met384Arg),TP53,p.Met384Arg,Uncertain significance,vus,germline,germline,384,M,R,p.M384R
+469144,458563,single nucleotide variant,NM_000546.6(TP53):c.773A>C (p.Glu258Ala),TP53,p.Glu258Ala,Uncertain significance,vus,germline,germline,258,E,A,p.E258A
+469145,458557,single nucleotide variant,NM_000546.6(TP53):c.692C>T (p.Thr231Ile),TP53,p.Thr231Ile,Uncertain significance,vus,germline;somatic,germline/somatic,231,T,I,p.T231I
+469161,458542,single nucleotide variant,NM_000546.6(TP53):c.386C>G (p.Ala129Gly),TP53,p.Ala129Gly,Uncertain significance,vus,germline,germline,129,A,G,p.A129G
+469170,458535,single nucleotide variant,NM_000546.6(TP53):c.322G>C (p.Gly108Arg),TP53,p.Gly108Arg,Uncertain significance,vus,germline;unknown,germline,108,G,R,p.G108R
+479204,485029,single nucleotide variant,NM_000546.6(TP53):c.1153T>C (p.Phe385Leu),TP53,p.Phe385Leu,Likely benign,benign,germline,germline,385,F,L,p.F385L
+479206,480753,single nucleotide variant,NM_000546.6(TP53):c.1078G>T (p.Gly360Trp),TP53,p.Gly360Trp,Uncertain significance,vus,germline,germline,360,G,W,p.G360W
+479225,485027,single nucleotide variant,NM_000546.6(TP53):c.920C>G (p.Ala307Gly),TP53,p.Ala307Gly,Likely benign,benign,germline,germline,307,A,G,p.A307G
+479245,480764,single nucleotide variant,NM_000546.6(TP53):c.737T>A (p.Met246Lys),TP53,p.Met246Lys,Likely pathogenic,pathogenic,germline,germline,246,M,K,p.M246K
+479251,480767,single nucleotide variant,NM_000546.6(TP53):c.670G>A (p.Glu224Lys),TP53,p.Glu224Lys,Uncertain significance,vus,germline;unknown,germline,224,E,K,p.E224K
+479257,480761,single nucleotide variant,NM_000546.6(TP53):c.1081G>C (p.Gly361Arg),TP53,p.Gly361Arg,Uncertain significance,vus,germline;unknown,germline,361,G,R,p.G361R
+479287,485044,single nucleotide variant,NM_000546.6(TP53):c.825T>G (p.Cys275Trp),TP53,p.Cys275Trp,Likely pathogenic,pathogenic,germline;somatic,germline/somatic,275,C,W,p.C275W
+479316,482235,single nucleotide variant,NM_000546.6(TP53):c.607G>C (p.Val203Leu),TP53,p.Val203Leu,Uncertain significance,vus,germline,germline,203,V,L,p.V203L
+479318,482220,single nucleotide variant,NM_000546.6(TP53):c.529C>A (p.Pro177Thr),TP53,p.Pro177Thr,Uncertain significance,vus,germline,germline,177,P,T,p.P177T
+479319,480759,single nucleotide variant,NM_000546.6(TP53):c.791T>C (p.Leu264Pro),TP53,p.Leu264Pro,Uncertain significance,vus,germline,germline,264,L,P,p.L264P
+479327,482229,single nucleotide variant,NM_000546.6(TP53):c.460G>C (p.Gly154Arg),TP53,p.Gly154Arg,Uncertain significance,vus,germline,germline,154,G,R,p.G154R
+479328,480961,single nucleotide variant,NM_000546.6(TP53):c.738G>A (p.Met246Ile),TP53,p.Met246Ile,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,246,M,I,p.M246I
+479329,486559,single nucleotide variant,NM_000546.6(TP53):c.446C>T (p.Ser149Phe),TP53,p.Ser149Phe,Uncertain significance,vus,germline;unknown,germline,149,S,F,p.S149F
+479333,481069,single nucleotide variant,NM_000546.6(TP53):c.710T>C (p.Met237Thr),TP53,p.Met237Thr,Uncertain significance,vus,germline,germline,237,M,T,p.M237T
+479343,480953,single nucleotide variant,NM_000546.6(TP53):c.400T>A (p.Phe134Ile),TP53,p.Phe134Ile,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,134,F,I,p.F134I
+479346,481073,single nucleotide variant,NM_000546.6(TP53):c.355G>C (p.Ala119Pro),TP53,p.Ala119Pro,Uncertain significance,vus,germline,germline,119,A,P,p.A119P
+479363,480758,single nucleotide variant,NM_000546.6(TP53):c.349G>A (p.Gly117Arg),TP53,p.Gly117Arg,Uncertain significance,vus,germline,germline,117,G,R,p.G117R
+480010,480951,single nucleotide variant,NM_000546.6(TP53):c.871A>G (p.Lys291Glu),TP53,p.Lys291Glu,Uncertain significance,vus,germline;unknown,germline,291,K,E,p.K291E
+480021,485047,single nucleotide variant,NM_000546.6(TP53):c.789T>A (p.Asn263Lys),TP53,p.Asn263Lys,Uncertain significance,vus,germline,germline,263,N,K,p.N263K
+480024,485046,single nucleotide variant,NM_000546.6(TP53):c.753C>G (p.Ile251Met),TP53,p.Ile251Met,Uncertain significance,vus,germline,germline,251,I,M,p.I251M
+480057,482223,single nucleotide variant,NM_000546.6(TP53):c.532C>G (p.His178Asp),TP53,p.His178Asp,Pathogenic,pathogenic,germline,germline,178,H,D,p.H178D
+480090,480737,single nucleotide variant,NM_000546.6(TP53):c.368C>T (p.Thr123Ile),TP53,p.Thr123Ile,Uncertain significance,vus,germline,germline,123,T,I,p.T123I
+480096,485045,single nucleotide variant,NM_000546.6(TP53):c.232G>A (p.Ala78Thr),TP53,p.Ala78Thr,Uncertain significance,vus,germline,germline,78,A,T,p.A78T
+480117,481176,single nucleotide variant,NM_000546.6(TP53):c.80C>T (p.Pro27Leu),TP53,p.Pro27Leu,Uncertain significance,vus,germline,germline,27,P,L,p.P27L
+480121,485028,single nucleotide variant,NM_000546.6(TP53):c.38C>G (p.Pro13Arg),TP53,p.Pro13Arg,Uncertain significance,vus,germline,germline,13,P,R,p.P13R
+483047,490173,single nucleotide variant,NM_000546.6(TP53):c.500A>C (p.Gln167Pro),TP53,p.Gln167Pro,Uncertain significance,vus,germline;unknown,germline,167,Q,P,p.Q167P
+483061,490170,single nucleotide variant,NM_000546.6(TP53):c.202G>C (p.Glu68Gln),TP53,p.Glu68Gln,Uncertain significance,vus,germline,germline,68,E,Q,p.E68Q
+483072,490174,single nucleotide variant,NM_000546.6(TP53):c.509C>G (p.Thr170Arg),TP53,p.Thr170Arg,Uncertain significance,vus,germline;unknown,germline,170,T,R,p.T170R
+485286,492573,single nucleotide variant,NM_000546.6(TP53):c.1127C>T (p.Ser376Phe),TP53,p.Ser376Phe,Uncertain significance,vus,germline,germline,376,S,F,p.S376F
+485679,492752,single nucleotide variant,NM_000546.6(TP53):c.318C>G (p.Ser106Arg),TP53,p.Ser106Arg,Pathogenic,pathogenic,germline;unknown,germline,106,S,R,p.S106R
+497493,505571,single nucleotide variant,NM_000546.6(TP53):c.758C>A (p.Thr253Asn),TP53,p.Thr253Asn,Uncertain significance,vus,germline,germline,253,T,N,p.T253N
+531813,528239,single nucleotide variant,NM_000546.6(TP53):c.497C>T (p.Ser166Leu),TP53,p.Ser166Leu,Uncertain significance,vus,germline,germline,166,S,L,p.S166L
+531819,528248,single nucleotide variant,NM_000546.6(TP53):c.473G>T (p.Arg158Leu),TP53,p.Arg158Leu,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,158,R,L,p.R158L
+531826,528255,single nucleotide variant,NM_000546.6(TP53):c.439G>A (p.Val147Ile),TP53,p.Val147Ile,Uncertain significance,vus,germline,germline,147,V,I,p.V147I
+531829,528270,single nucleotide variant,NM_000546.6(TP53):c.413C>A (p.Ala138Asp),TP53,p.Ala138Asp,Uncertain significance,vus,germline,germline,138,A,D,p.A138D
+531865,528251,single nucleotide variant,NM_000546.6(TP53):c.787A>C (p.Asn263His),TP53,p.Asn263His,Uncertain significance,vus,germline,germline,263,N,H,p.N263H
+531932,528262,single nucleotide variant,NM_000546.6(TP53):c.565G>T (p.Ala189Ser),TP53,p.Ala189Ser,Uncertain significance,vus,germline,germline,189,A,S,p.A189S
+531935,528245,single nucleotide variant,NM_000546.6(TP53):c.515T>C (p.Val172Ala),TP53,p.Val172Ala,Uncertain significance,vus,germline,germline,172,V,A,p.V172A
+531943,528246,single nucleotide variant,NM_000546.6(TP53):c.397A>G (p.Met133Val),TP53,p.Met133Val,Uncertain significance,vus,germline,germline,133,M,V,p.M133V
+531953,528264,single nucleotide variant,NM_000546.6(TP53):c.200C>A (p.Pro67Gln),TP53,p.Pro67Gln,Uncertain significance,vus,germline,germline,67,P,Q,p.P67Q
+532181,528252,single nucleotide variant,NM_000546.6(TP53):c.1096T>C (p.Ser366Pro),TP53,p.Ser366Pro,Uncertain significance,vus,germline,germline,366,S,P,p.S366P
+532220,3010803,Indel,NM_000546.6(TP53):c.307_309delinsCAG (p.Tyr103Gln),TP53,p.Tyr103Gln,Uncertain significance,vus,germline,germline,103,Y,Q,p.Y103Q
+532223,528268,single nucleotide variant,NM_000546.6(TP53):c.269C>T (p.Ser90Phe),TP53,p.Ser90Phe,Uncertain significance,vus,germline,germline,90,S,F,p.S90F
+532225,528271,single nucleotide variant,NM_000546.6(TP53):c.79C>T (p.Pro27Ser),TP53,p.Pro27Ser,Uncertain significance,vus,germline,germline,27,P,S,p.P27S
+532231,528238,single nucleotide variant,NM_000546.6(TP53):c.25A>C (p.Ser9Arg),TP53,p.Ser9Arg,Uncertain significance,vus,germline,germline,9,S,R,p.S9R
+569763,580186,single nucleotide variant,NM_000546.6(TP53):c.847C>G (p.Arg283Gly),TP53,p.Arg283Gly,Uncertain significance,vus,germline,germline,283,R,G,p.R283G
+569777,575702,single nucleotide variant,NM_000546.6(TP53):c.534C>A (p.His178Gln),TP53,p.His178Gln,Pathogenic/Likely pathogenic,pathogenic,germline,germline,178,H,Q,p.H178Q
+569780,568069,single nucleotide variant,NM_000546.6(TP53):c.442G>A (p.Asp148Asn),TP53,p.Asp148Asn,Uncertain significance,vus,germline,germline,148,D,N,p.D148N
+569785,566954,single nucleotide variant,NM_000546.6(TP53):c.296C>G (p.Ser99Cys),TP53,p.Ser99Cys,Uncertain significance,vus,germline,germline,99,S,C,p.S99C
+569792,578235,single nucleotide variant,NM_000546.6(TP53):c.35C>A (p.Pro12His),TP53,p.Pro12His,Uncertain significance,vus,germline,germline,12,P,H,p.P12H
+571620,582257,single nucleotide variant,NM_000546.6(TP53):c.596G>A (p.Gly199Glu),TP53,p.Gly199Glu,Uncertain significance,vus,germline;unknown,germline,199,G,E,p.G199E
+572293,568838,Indel,NM_000546.6(TP53):c.811_812delinsTT (p.Glu271Leu),TP53,p.Glu271Leu,Uncertain significance,vus,germline,germline,271,E,L,p.E271L
+572297,573679,single nucleotide variant,NM_000546.6(TP53):c.662A>C (p.Glu221Ala),TP53,p.Glu221Ala,Uncertain significance,vus,germline,germline,221,E,A,p.E221A
+572308,568736,single nucleotide variant,NM_000546.6(TP53):c.506T>G (p.Met169Arg),TP53,p.Met169Arg,Uncertain significance,vus,germline,germline,169,M,R,p.M169R
+572332,579376,single nucleotide variant,NM_000546.6(TP53):c.296C>T (p.Ser99Phe),TP53,p.Ser99Phe,Uncertain significance,vus,germline,germline,99,S,F,p.S99F
+572341,577888,single nucleotide variant,NM_000546.6(TP53):c.152A>G (p.Glu51Gly),TP53,p.Glu51Gly,Uncertain significance,vus,germline,germline,51,E,G,p.E51G
+574620,569094,single nucleotide variant,NM_000546.6(TP53):c.1129A>G (p.Thr377Ala),TP53,p.Thr377Ala,Uncertain significance,vus,germline;unknown,germline,377,T,A,p.T377A
+574622,568955,single nucleotide variant,NM_000546.6(TP53):c.1091C>T (p.Ala364Val),TP53,p.Ala364Val,Uncertain significance,vus,germline,germline,364,A,V,p.A364V
+574629,565884,single nucleotide variant,NM_000546.6(TP53):c.815T>C (p.Val272Ala),TP53,p.Val272Ala,Uncertain significance,vus,germline,germline,272,V,A,p.V272A
+574641,577290,single nucleotide variant,NM_000546.6(TP53):c.40C>G (p.Leu14Val),TP53,p.Leu14Val,Uncertain significance,vus,germline,germline,14,L,V,p.L14V
+576031,584921,single nucleotide variant,NM_000546.6(TP53):c.718A>G (p.Ser240Gly),TP53,p.Ser240Gly,Pathogenic/Likely pathogenic,pathogenic,germline;unknown,germline,240,S,G,p.S240G
+576032,584922,single nucleotide variant,NM_000546.6(TP53):c.623A>G (p.Asp208Gly),TP53,p.Asp208Gly,Uncertain significance,vus,germline;unknown,germline,208,D,G,p.D208G
+576033,584923,single nucleotide variant,NM_000546.6(TP53):c.417G>T (p.Lys139Asn),TP53,p.Lys139Asn,Uncertain significance,vus,germline;unknown,germline,139,K,N,p.K139N
+618824,629063,single nucleotide variant,NM_000546.6(TP53):c.1173C>G (p.Asp391Glu),TP53,p.Asp391Glu,Uncertain significance,vus,germline,germline,391,D,E,p.D391E
+618829,628432,single nucleotide variant,NM_000546.6(TP53):c.1013T>G (p.Phe338Cys),TP53,p.Phe338Cys,Uncertain significance,vus,germline,germline,338,F,C,p.F338C
+618831,630832,single nucleotide variant,NM_000546.6(TP53):c.970G>T (p.Asp324Tyr),TP53,p.Asp324Tyr,Uncertain significance,vus,germline,germline,324,D,Y,p.D324Y
+618841,629276,single nucleotide variant,NM_000546.6(TP53):c.262G>C (p.Ala88Pro),TP53,p.Ala88Pro,Uncertain significance,vus,germline,germline,88,A,P,p.A88P
+618842,630031,single nucleotide variant,NM_000546.6(TP53):c.209C>T (p.Ala70Val),TP53,p.Ala70Val,Uncertain significance,vus,germline,germline,70,A,V,p.A70V
+621605,633445,single nucleotide variant,NM_000546.6(TP53):c.869G>T (p.Arg290Leu),TP53,p.Arg290Leu,Uncertain significance,vus,germline;maternal,germline,290,R,L,p.R290L
+622585,634747,single nucleotide variant,NM_000546.6(TP53):c.840A>C (p.Arg280Ser),TP53,p.Arg280Ser,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,280,R,S,p.R280S
+622586,634682,single nucleotide variant,NM_000546.6(TP53):c.817C>G (p.Arg273Gly),TP53,p.Arg273Gly,Pathogenic/Likely pathogenic,pathogenic,de novo;germline;somatic;unknown,germline/somatic,273,R,G,p.R273G
+622590,634680,single nucleotide variant,NM_000546.6(TP53):c.775G>T (p.Asp259Tyr),TP53,p.Asp259Tyr,Uncertain significance,vus,germline;somatic,germline/somatic,259,D,Y,p.D259Y
+622596,634756,single nucleotide variant,NM_000546.6(TP53):c.695T>G (p.Ile232Ser),TP53,p.Ile232Ser,Pathogenic,pathogenic,germline;somatic,germline/somatic,232,I,S,p.I232S
+622609,634757,single nucleotide variant,NM_000546.6(TP53):c.590T>A (p.Val197Glu),TP53,p.Val197Glu,Uncertain significance,vus,germline;somatic,germline/somatic,197,V,E,p.V197E
+622620,634768,single nucleotide variant,NM_000546.6(TP53):c.467G>C (p.Arg156Pro),TP53,p.Arg156Pro,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,156,R,P,p.R156P
+622637,634690,single nucleotide variant,NM_000546.6(TP53):c.338T>G (p.Phe113Cys),TP53,p.Phe113Cys,Pathogenic,pathogenic,germline;somatic,germline/somatic,113,F,C,p.F113C
+646729,662690,single nucleotide variant,NM_000546.6(TP53):c.1039G>A (p.Ala347Thr),TP53,p.Ala347Thr,Uncertain significance,vus,germline;somatic,germline/somatic,347,A,T,p.A347T
+646731,651580,single nucleotide variant,NM_000546.6(TP53):c.989T>C (p.Leu330Pro),TP53,p.Leu330Pro,Uncertain significance,vus,germline,germline,330,L,P,p.L330P
+646733,648339,single nucleotide variant,NM_000546.6(TP53):c.983T>C (p.Phe328Ser),TP53,p.Phe328Ser,Uncertain significance,vus,germline,germline,328,F,S,p.F328S
+646738,660046,single nucleotide variant,NM_000546.6(TP53):c.891C>A (p.His297Gln),TP53,p.His297Gln,Uncertain significance,vus,germline,germline,297,H,Q,p.H297Q
+646740,655556,single nucleotide variant,NM_000546.6(TP53):c.830G>C (p.Cys277Ser),TP53,p.Cys277Ser,Uncertain significance,vus,germline,germline,277,C,S,p.C277S
+646742,647256,single nucleotide variant,NM_000546.6(TP53):c.805A>C (p.Ser269Arg),TP53,p.Ser269Arg,Uncertain significance,vus,germline,germline,269,S,R,p.S269R
+646744,640121,single nucleotide variant,NM_000546.6(TP53):c.790C>A (p.Leu264Ile),TP53,p.Leu264Ile,Uncertain significance,vus,germline,germline,264,L,I,p.L264I
+646753,648028,single nucleotide variant,NM_000546.6(TP53):c.676G>A (p.Gly226Ser),TP53,p.Gly226Ser,Uncertain significance,vus,germline;unknown,germline,226,G,S,p.G226S
+646754,643078,single nucleotide variant,NM_000546.6(TP53):c.641A>C (p.His214Pro),TP53,p.His214Pro,Uncertain significance,vus,germline,germline,214,H,P,p.H214P
+646755,644883,single nucleotide variant,NM_000546.6(TP53):c.608T>A (p.Val203Glu),TP53,p.Val203Glu,Uncertain significance,vus,germline,germline,203,V,E,p.V203E
+646756,646725,single nucleotide variant,NM_000546.6(TP53):c.568C>T (p.Pro190Ser),TP53,p.Pro190Ser,Uncertain significance,vus,germline,germline,190,P,S,p.P190S
+646758,646495,single nucleotide variant,NM_000546.6(TP53):c.529C>T (p.Pro177Ser),TP53,p.Pro177Ser,Uncertain significance,vus,germline,germline,177,P,S,p.P177S
+646760,653104,single nucleotide variant,NM_000546.6(TP53):c.500A>G (p.Gln167Arg),TP53,p.Gln167Arg,Uncertain significance,vus,germline,germline,167,Q,R,p.Q167R
+646763,645432,single nucleotide variant,NM_000546.6(TP53):c.458C>T (p.Pro153Leu),TP53,p.Pro153Leu,Uncertain significance,vus,germline,germline,153,P,L,p.P153L
+646764,644101,single nucleotide variant,NM_000546.6(TP53):c.418A>G (p.Thr140Ala),TP53,p.Thr140Ala,Uncertain significance,vus,germline,germline,140,T,A,p.T140A
+646765,658923,single nucleotide variant,NM_000546.6(TP53):c.415A>G (p.Lys139Glu),TP53,p.Lys139Glu,Uncertain significance,vus,germline,germline,139,K,E,p.K139E
+646767,656751,single nucleotide variant,NM_000546.6(TP53):c.380C>A (p.Ser127Tyr),TP53,p.Ser127Tyr,Pathogenic,pathogenic,germline;unknown,germline,127,S,Y,p.S127Y
+646772,649735,single nucleotide variant,NM_000546.6(TP53):c.301A>C (p.Lys101Gln),TP53,p.Lys101Gln,Uncertain significance,vus,germline,germline,101,K,Q,p.K101Q
+646775,655254,single nucleotide variant,NM_000546.6(TP53):c.236C>G (p.Ala79Gly),TP53,p.Ala79Gly,Uncertain significance,vus,germline,germline,79,A,G,p.A79G
+646777,659626,single nucleotide variant,NM_000546.6(TP53):c.137C>A (p.Ser46Tyr),TP53,p.Ser46Tyr,Uncertain significance,vus,germline,germline,46,S,Y,p.S46Y
+646779,663719,single nucleotide variant,NM_000546.6(TP53):c.127T>A (p.Leu43Met),TP53,p.Leu43Met,Uncertain significance,vus,germline,germline,43,L,M,p.L43M
+646783,638927,single nucleotide variant,NM_000546.6(TP53):c.87C>G (p.Asn29Lys),TP53,p.Asn29Lys,Uncertain significance,vus,germline,germline,29,N,K,p.N29K
+646784,664352,single nucleotide variant,NM_000546.6(TP53):c.80C>G (p.Pro27Arg),TP53,p.Pro27Arg,Uncertain significance,vus,germline,germline,27,P,R,p.P27R
+646785,642623,single nucleotide variant,NM_000546.6(TP53):c.48G>C (p.Gln16His),TP53,p.Gln16His,Uncertain significance,vus,germline;unknown,germline,16,Q,H,p.Q16H
+792574,804214,single nucleotide variant,NM_000546.6(TP53):c.428T>C (p.Val143Ala),TP53,p.Val143Ala,Pathogenic,pathogenic,germline;unknown,germline,143,V,A,p.V143A
+814443,818485,single nucleotide variant,NM_000546.6(TP53):c.1168C>A (p.Pro390Thr),TP53,p.Pro390Thr,Uncertain significance,vus,germline,germline,390,P,T,p.P390T
+814447,822085,single nucleotide variant,NM_000546.6(TP53):c.1053G>T (p.Lys351Asn),TP53,p.Lys351Asn,Uncertain significance,vus,germline,germline,351,K,N,p.K351N
+814450,822031,Indel,NM_000546.6(TP53):c.1024_1025delinsTT (p.Arg342Leu),TP53,p.Arg342Leu,Benign,benign,germline,germline,342,R,L,p.R342L
+814451,818264,single nucleotide variant,NM_000546.6(TP53):c.1019T>A (p.Met340Lys),TP53,p.Met340Lys,Uncertain significance,vus,germline,germline,340,M,K,p.M340K
+814453,823553,single nucleotide variant,NM_000546.6(TP53):c.991C>A (p.Gln331Lys),TP53,p.Gln331Lys,Uncertain significance,vus,germline,germline,331,Q,K,p.Q331K
+814455,823403,single nucleotide variant,NM_000546.6(TP53):c.968T>C (p.Leu323Pro),TP53,p.Leu323Pro,Uncertain significance,vus,germline,germline,323,L,P,p.L323P
+814462,827547,single nucleotide variant,NM_000546.6(TP53):c.826G>A (p.Ala276Thr),TP53,p.Ala276Thr,Uncertain significance,vus,germline,germline,276,A,T,p.A276T
+814464,827405,single nucleotide variant,NM_000546.6(TP53):c.802A>T (p.Asn268Tyr),TP53,p.Asn268Tyr,Uncertain significance,vus,germline,germline,268,N,Y,p.N268Y
+814467,827313,single nucleotide variant,NM_000546.6(TP53):c.788A>G (p.Asn263Ser),TP53,p.Asn263Ser,Likely benign,benign,germline,germline,263,N,S,p.N263S
+814468,827201,single nucleotide variant,NM_000546.6(TP53):c.769C>G (p.Leu257Val),TP53,p.Leu257Val,Uncertain significance,vus,germline,germline,257,L,V,p.L257V
+814470,827132,single nucleotide variant,NM_000546.6(TP53):c.757A>G (p.Thr253Ala),TP53,p.Thr253Ala,Pathogenic/Likely pathogenic,pathogenic,germline,germline,253,T,A,p.T253A
+814474,826574,single nucleotide variant,NM_000546.6(TP53):c.671A>G (p.Glu224Gly),TP53,p.Glu224Gly,Uncertain significance,vus,germline;unknown,germline,224,E,G,p.E224G
+814475,826488,single nucleotide variant,NM_000546.6(TP53):c.656C>T (p.Pro219Leu),TP53,p.Pro219Leu,Uncertain significance,vus,germline,germline,219,P,L,p.P219L
+814480,826261,single nucleotide variant,NM_000546.6(TP53):c.622G>C (p.Asp208His),TP53,p.Asp208His,Uncertain significance,vus,germline,germline,208,D,H,p.D208H
+814481,826165,single nucleotide variant,NM_000546.6(TP53):c.605G>C (p.Arg202Pro),TP53,p.Arg202Pro,Uncertain significance,vus,germline,germline,202,R,P,p.R202P
+814482,826051,single nucleotide variant,NM_000546.6(TP53):c.590T>G (p.Val197Gly),TP53,p.Val197Gly,Uncertain significance,vus,germline,germline,197,V,G,p.V197G
+814487,825729,single nucleotide variant,NM_000546.6(TP53):c.542G>C (p.Arg181Pro),TP53,p.Arg181Pro,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,181,R,P,p.R181P
+814489,825481,single nucleotide variant,NM_000546.6(TP53):c.514G>A (p.Val172Ile),TP53,p.Val172Ile,Uncertain significance,vus,germline,germline,172,V,I,p.V172I
+814494,824998,single nucleotide variant,NM_000546.6(TP53):c.455C>G (p.Pro152Arg),TP53,p.Pro152Arg,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,152,P,R,p.P152R
+814495,824960,Indel,NM_000546.6(TP53):c.451_452delinsTT (p.Pro151Phe),TP53,p.Pro151Phe,Likely pathogenic,pathogenic,germline,germline,151,P,F,p.P151F
+814496,824855,single nucleotide variant,NM_000546.6(TP53):c.438G>T (p.Trp146Cys),TP53,p.Trp146Cys,Uncertain significance,vus,germline,germline,146,W,C,p.W146C
+814498,824720,single nucleotide variant,NM_000546.6(TP53):c.424C>T (p.Pro142Ser),TP53,p.Pro142Ser,Uncertain significance,vus,germline,germline,142,P,S,p.P142S
+814500,824351,single nucleotide variant,NM_000546.6(TP53):c.389T>A (p.Leu130His),TP53,p.Leu130His,Pathogenic,pathogenic,germline,germline,130,L,H,p.L130H
+814502,824286,single nucleotide variant,NM_000546.6(TP53):c.383C>T (p.Pro128Leu),TP53,p.Pro128Leu,Uncertain significance,vus,germline,germline,128,P,L,p.P128L
+814506,823452,single nucleotide variant,NM_000546.6(TP53):c.328C>G (p.Arg110Gly),TP53,p.Arg110Gly,Likely pathogenic,pathogenic,germline,germline,110,R,G,p.R110G
+814508,822977,Indel,NM_000546.6(TP53):c.314_315delinsCA (p.Gly105Ala),TP53,p.Gly105Ala,Uncertain significance,vus,germline,germline,105,G,A,p.G105A
+814511,822279,single nucleotide variant,NM_000546.6(TP53):c.292C>T (p.Pro98Ser),TP53,p.Pro98Ser,Uncertain significance,vus,germline,germline,98,P,S,p.P98S
+814517,820048,single nucleotide variant,NM_000546.6(TP53):c.176G>A (p.Gly59Asp),TP53,p.Gly59Asp,Likely benign,benign,germline;unknown,germline,59,G,D,p.G59D
+814521,818276,single nucleotide variant,NM_000546.6(TP53):c.101C>T (p.Pro34Leu),TP53,p.Pro34Leu,Uncertain significance,vus,germline;somatic;unknown,germline/somatic,34,P,L,p.P34L
+814522,822586,single nucleotide variant,NM_000546.6(TP53):c.85A>G (p.Asn29Asp),TP53,p.Asn29Asp,Likely benign,benign,germline,germline,29,N,D,p.N29D
+814523,826109,single nucleotide variant,NM_000546.6(TP53):c.59C>T (p.Ser20Leu),TP53,p.Ser20Leu,Uncertain significance,vus,germline,germline,20,S,L,p.S20L
+846248,860528,single nucleotide variant,NM_000546.6(TP53):c.1145A>C (p.Lys382Thr),TP53,p.Lys382Thr,Uncertain significance,vus,germline;unknown,germline,382,K,T,p.K382T
+846250,858737,single nucleotide variant,NM_000546.6(TP53):c.1100G>C (p.Ser367Thr),TP53,p.Ser367Thr,Uncertain significance,vus,germline,germline,367,S,T,p.S367T
+846253,839717,single nucleotide variant,NM_000546.6(TP53):c.1045G>A (p.Glu349Lys),TP53,p.Glu349Lys,Uncertain significance,vus,germline,germline,349,E,K,p.E349K
+846254,840626,single nucleotide variant,NM_000546.6(TP53):c.1004G>C (p.Arg335Pro),TP53,p.Arg335Pro,Uncertain significance,vus,germline,germline,335,R,P,p.R335P
+846256,855943,single nucleotide variant,NM_000546.6(TP53):c.950A>T (p.Gln317Leu),TP53,p.Gln317Leu,Uncertain significance,vus,germline;unknown,germline,317,Q,L,p.Q317L
+846257,848532,single nucleotide variant,NM_000546.6(TP53):c.941C>G (p.Ser314Cys),TP53,p.Ser314Cys,Uncertain significance,vus,germline;unknown,germline,314,S,C,p.S314C
+846260,859912,single nucleotide variant,NM_000546.6(TP53):c.813G>T (p.Glu271Asp),TP53,p.Glu271Asp,Uncertain significance,vus,germline,germline,271,E,D,p.E271D
+846262,852206,single nucleotide variant,NM_000546.6(TP53):c.800G>T (p.Arg267Leu),TP53,p.Arg267Leu,Uncertain significance,vus,germline;unknown,germline,267,R,L,p.R267L
+846263,858889,single nucleotide variant,NM_000546.6(TP53):c.767C>T (p.Thr256Ile),TP53,p.Thr256Ile,Uncertain significance,vus,germline,germline,256,T,I,p.T256I
+846265,856299,single nucleotide variant,NM_000546.6(TP53):c.761T>A (p.Ile254Asn),TP53,p.Ile254Asn,Pathogenic,pathogenic,germline;unknown,germline,254,I,N,p.I254N
+846268,840505,single nucleotide variant,NM_000546.6(TP53):c.729G>A (p.Met243Ile),TP53,p.Met243Ile,Uncertain significance,vus,germline,germline,243,M,I,p.M243I
+846269,850008,single nucleotide variant,NM_000546.6(TP53):c.695T>A (p.Ile232Asn),TP53,p.Ile232Asn,Pathogenic/Likely pathogenic,pathogenic,germline;somatic,germline/somatic,232,I,N,p.I232N
+846270,863153,single nucleotide variant,NM_000546.6(TP53):c.691A>G (p.Thr231Ala),TP53,p.Thr231Ala,Uncertain significance,vus,germline,germline,231,T,A,p.T231A
+846275,853530,single nucleotide variant,NM_000546.6(TP53):c.572C>A (p.Pro191His),TP53,p.Pro191His,Uncertain significance,vus,germline,germline,191,P,H,p.P191H
+846280,844926,single nucleotide variant,NM_000546.6(TP53):c.505A>G (p.Met169Val),TP53,p.Met169Val,Uncertain significance,vus,germline,germline,169,M,V,p.M169V
+846283,856171,single nucleotide variant,NM_000546.6(TP53):c.472C>G (p.Arg158Gly),TP53,p.Arg158Gly,Pathogenic,pathogenic,germline;somatic,germline/somatic,158,R,G,p.R158G
+846284,842812,single nucleotide variant,NM_000546.6(TP53):c.440T>C (p.Val147Ala),TP53,p.Val147Ala,Uncertain significance,vus,germline,germline,147,V,A,p.V147A
+846288,854451,single nucleotide variant,NM_000546.6(TP53):c.361T>C (p.Ser121Pro),TP53,p.Ser121Pro,Uncertain significance,vus,germline,germline,121,S,P,p.S121P
+846289,837018,single nucleotide variant,NM_000546.6(TP53):c.350G>T (p.Gly117Val),TP53,p.Gly117Val,Uncertain significance,vus,germline,germline,117,G,V,p.G117V
+846290,836750,single nucleotide variant,NM_000546.6(TP53):c.331C>A (p.Leu111Met),TP53,p.Leu111Met,Uncertain significance,vus,germline,germline,111,L,M,p.L111M
+846292,845798,single nucleotide variant,NM_000546.6(TP53):c.271T>C (p.Trp91Arg),TP53,p.Trp91Arg,Uncertain significance,vus,germline,germline,91,W,R,p.W91R
+846293,848797,single nucleotide variant,NM_000546.6(TP53):c.232G>T (p.Ala78Ser),TP53,p.Ala78Ser,Uncertain significance,vus,germline,germline,78,A,S,p.A78S
+846294,836766,single nucleotide variant,NM_000546.6(TP53):c.224C>T (p.Pro75Leu),TP53,p.Pro75Leu,Uncertain significance,vus,germline,germline,75,P,L,p.P75L
+846296,835228,single nucleotide variant,NM_000546.6(TP53):c.199C>T (p.Pro67Ser),TP53,p.Pro67Ser,Uncertain significance,vus,germline,germline,67,P,S,p.P67S
+846299,850781,single nucleotide variant,NM_000546.6(TP53):c.151G>A (p.Glu51Lys),TP53,p.Glu51Lys,Uncertain significance,vus,germline,germline,51,E,K,p.E51K
+846300,864154,single nucleotide variant,NM_000546.6(TP53):c.129G>T (p.Leu43Phe),TP53,p.Leu43Phe,Uncertain significance,vus,germline,germline,43,L,F,p.L43F
+846302,842527,single nucleotide variant,NM_000546.6(TP53):c.86A>C (p.Asn29Thr),TP53,p.Asn29Thr,Uncertain significance,vus,germline,germline,29,N,T,p.N29T
+846304,861772,single nucleotide variant,NM_000546.6(TP53):c.7G>C (p.Glu3Gln),TP53,p.Glu3Gln,Uncertain significance,vus,germline;somatic,germline/somatic,3,E,Q,p.E3Q
+904019,915695,single nucleotide variant,NM_000546.6(TP53):c.470T>G (p.Val157Gly),TP53,p.Val157Gly,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,157,V,G,p.V157G
+906036,917693,single nucleotide variant,NM_000546.6(TP53):c.359A>T (p.Lys120Met),TP53,p.Lys120Met,Uncertain significance,vus,germline,germline,120,K,M,p.K120M
+914175,919211,single nucleotide variant,NM_000546.6(TP53):c.1102C>A (p.His368Asn),TP53,p.His368Asn,Uncertain significance,vus,germline,germline,368,H,N,p.H368N
+914176,927316,single nucleotide variant,NM_000546.6(TP53):c.1097C>G (p.Ser366Cys),TP53,p.Ser366Cys,Uncertain significance,vus,germline,germline,366,S,C,p.S366C
+914178,927085,single nucleotide variant,NM_000546.6(TP53):c.944C>G (p.Ser315Cys),TP53,p.Ser315Cys,Uncertain significance,vus,germline,germline,315,S,C,p.S315C
+914179,927512,single nucleotide variant,NM_000546.6(TP53):c.893A>G (p.Glu298Gly),TP53,p.Glu298Gly,Uncertain significance,vus,germline,germline,298,E,G,p.E298G
+914182,925213,single nucleotide variant,NM_000546.6(TP53):c.861G>T (p.Glu287Asp),TP53,p.Glu287Asp,Uncertain significance,vus,germline,germline,287,E,D,p.E287D
+914183,919894,single nucleotide variant,NM_000546.6(TP53):c.854A>G (p.Glu285Gly),TP53,p.Glu285Gly,Uncertain significance,vus,germline,germline,285,E,G,p.E285G
+914189,921142,single nucleotide variant,NM_000546.6(TP53):c.692C>G (p.Thr231Ser),TP53,p.Thr231Ser,Uncertain significance,vus,germline;unknown,germline,231,T,S,p.T231S
+914191,919639,single nucleotide variant,NM_000546.6(TP53):c.619G>C (p.Asp207His),TP53,p.Asp207His,Uncertain significance,vus,germline,germline,207,D,H,p.D207H
+914193,924379,single nucleotide variant,NM_000546.6(TP53):c.599A>G (p.Asn200Ser),TP53,p.Asn200Ser,Uncertain significance,vus,germline,germline,200,N,S,p.N200S
+914194,922531,single nucleotide variant,NM_000546.6(TP53):c.576G>T (p.Gln192His),TP53,p.Gln192His,Uncertain significance,vus,germline,germline,192,Q,H,p.Q192H
+914195,919322,single nucleotide variant,NM_000546.6(TP53):c.507G>T (p.Met169Ile),TP53,p.Met169Ile,Uncertain significance,vus,germline,germline,169,M,I,p.M169I
+914200,923486,single nucleotide variant,NM_000546.6(TP53):c.253C>T (p.Pro85Ser),TP53,p.Pro85Ser,Uncertain significance,vus,germline,germline,85,P,S,p.P85S
+914202,919370,single nucleotide variant,NM_000546.6(TP53):c.205G>C (p.Ala69Pro),TP53,p.Ala69Pro,Uncertain significance,vus,germline,germline,69,A,P,p.A69P
+914204,928344,single nucleotide variant,NM_000546.6(TP53):c.131T>G (p.Met44Arg),TP53,p.Met44Arg,Uncertain significance,vus,germline,germline,44,M,R,p.M44R
+914205,923838,single nucleotide variant,NM_000546.6(TP53):c.76C>A (p.Leu26Ile),TP53,p.Leu26Ile,Uncertain significance,vus,germline,germline,26,L,I,p.L26I
+914206,926778,single nucleotide variant,NM_000546.6(TP53):c.5A>G (p.Glu2Gly),TP53,p.Glu2Gly,Uncertain significance,vus,germline,germline,2,E,G,p.E2G
+928547,945439,single nucleotide variant,NM_000546.6(TP53):c.1089G>T (p.Arg363Ser),TP53,p.Arg363Ser,Uncertain significance,vus,germline,germline,363,R,S,p.R363S
+928548,951578,single nucleotide variant,NM_000546.6(TP53):c.1001G>A (p.Gly334Glu),TP53,p.Gly334Glu,Uncertain significance,vus,germline;unknown,germline,334,G,E,p.G334E
+928550,951459,single nucleotide variant,NM_000546.6(TP53):c.677G>C (p.Gly226Ala),TP53,p.Gly226Ala,Uncertain significance,vus,germline;unknown,germline,226,G,A,p.G226A
+928552,949463,single nucleotide variant,NM_000546.6(TP53):c.611A>G (p.Glu204Gly),TP53,p.Glu204Gly,Uncertain significance,vus,germline,germline,204,E,G,p.E204G
+938236,933702,single nucleotide variant,NM_000546.6(TP53):c.562C>G (p.Leu188Val),TP53,p.Leu188Val,Uncertain significance,vus,germline,germline,188,L,V,p.L188V
+938240,934410,single nucleotide variant,NM_000546.6(TP53):c.379T>C (p.Ser127Pro),TP53,p.Ser127Pro,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,127,S,P,p.S127P
+938243,940878,single nucleotide variant,NM_000546.6(TP53):c.113A>C (p.Gln38Pro),TP53,p.Gln38Pro,Uncertain significance,vus,germline,germline,38,Q,P,p.Q38P
+950302,956897,single nucleotide variant,NM_000546.6(TP53):c.1030C>G (p.Leu344Val),TP53,p.Leu344Val,Uncertain significance,vus,germline,germline,344,L,V,p.L344V
+950304,954095,single nucleotide variant,NM_000546.6(TP53):c.853G>C (p.Glu285Gln),TP53,p.Glu285Gln,Uncertain significance,vus,germline,germline,285,E,Q,p.E285Q
+950305,960924,single nucleotide variant,NM_000546.6(TP53):c.823T>A (p.Cys275Ser),TP53,p.Cys275Ser,Uncertain significance,vus,germline,germline,275,C,S,p.C275S
+950307,953467,single nucleotide variant,NM_000546.6(TP53):c.794T>A (p.Leu265Gln),TP53,p.Leu265Gln,Pathogenic/Likely pathogenic,pathogenic,germline,germline,265,L,Q,p.L265Q
+950308,959232,single nucleotide variant,NM_000546.6(TP53):c.721T>A (p.Ser241Thr),TP53,p.Ser241Thr,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,241,S,T,p.S241T
+950310,953956,single nucleotide variant,NM_000546.6(TP53):c.688A>G (p.Thr230Ala),TP53,p.Thr230Ala,Uncertain significance,vus,germline;unknown,germline,230,T,A,p.T230A
+950311,954848,single nucleotide variant,NM_000546.6(TP53):c.684C>A (p.Asp228Glu),TP53,p.Asp228Glu,Uncertain significance,vus,germline,germline,228,D,E,p.D228E
+950312,953426,single nucleotide variant,NM_000546.6(TP53):c.656C>G (p.Pro219Arg),TP53,p.Pro219Arg,Uncertain significance,vus,germline,germline,219,P,R,p.P219R
+950315,956854,single nucleotide variant,NM_000546.6(TP53):c.530C>A (p.Pro177His),TP53,p.Pro177His,Uncertain significance,vus,germline,germline,177,P,H,p.P177H
+950316,958850,Indel,NM_000546.6(TP53):c.472_474delinsATT (p.Arg158Ile),TP53,p.Arg158Ile,Uncertain significance,vus,germline,germline,158,R,I,p.R158I
+958331,964680,single nucleotide variant,NM_000546.6(TP53):c.520A>T (p.Arg174Trp),TP53,p.Arg174Trp,Uncertain significance,vus,germline,germline,174,R,W,p.R174W
+964740,976475,single nucleotide variant,NM_000546.6(TP53):c.1141A>G (p.Lys381Glu),TP53,p.Lys381Glu,Uncertain significance,vus,germline,germline,381,K,E,p.K381E
+997950,1009427,single nucleotide variant,NM_000546.6(TP53):c.944C>T (p.Ser315Phe),TP53,p.Ser315Phe,Uncertain significance,vus,germline,germline,315,S,F,p.S315F
+997958,1005829,single nucleotide variant,NM_000546.6(TP53):c.409C>G (p.Leu137Val),TP53,p.Leu137Val,Uncertain significance,vus,germline,germline,137,L,V,p.L137V
+997961,1011474,single nucleotide variant,NM_000546.6(TP53):c.340T>G (p.Leu114Val),TP53,p.Leu114Val,Uncertain significance,vus,germline,germline,114,L,V,p.L114V
+1013144,1019612,single nucleotide variant,NM_000546.6(TP53):c.1009C>A (p.Arg337Ser),TP53,p.Arg337Ser,Likely pathogenic,pathogenic,germline,germline,337,R,S,p.R337S
+1013145,1024800,single nucleotide variant,NM_000546.6(TP53):c.988C>T (p.Leu330Phe),TP53,p.Leu330Phe,Uncertain significance,vus,germline,germline,330,L,F,p.L330F
+1013146,1021810,single nucleotide variant,NM_000546.6(TP53):c.978A>T (p.Glu326Asp),TP53,p.Glu326Asp,Uncertain significance,vus,germline;unknown,germline,326,E,D,p.E326D
+1013148,1020758,single nucleotide variant,NM_000546.6(TP53):c.911C>T (p.Thr304Ile),TP53,p.Thr304Ile,Uncertain significance,vus,germline,germline,304,T,I,p.T304I
+1013149,1024359,single nucleotide variant,NM_000546.6(TP53):c.909C>G (p.Ser303Arg),TP53,p.Ser303Arg,Uncertain significance,vus,germline,germline,303,S,R,p.S303R
+1013151,1024822,single nucleotide variant,NM_000546.6(TP53):c.862A>G (p.Asn288Asp),TP53,p.Asn288Asp,Uncertain significance,vus,germline,germline,288,N,D,p.N288D
+1013153,1026715,single nucleotide variant,NM_000546.6(TP53):c.685T>G (p.Cys229Gly),TP53,p.Cys229Gly,Uncertain significance,vus,germline,germline,229,C,G,p.C229G
+1013154,1019369,single nucleotide variant,NM_000546.6(TP53):c.632C>G (p.Thr211Ser),TP53,p.Thr211Ser,Uncertain significance,vus,germline,germline,211,T,S,p.T211S
+1013155,1015039,single nucleotide variant,NM_000546.6(TP53):c.595G>A (p.Gly199Arg),TP53,p.Gly199Arg,Uncertain significance,vus,germline,germline,199,G,R,p.G199R
+1013156,1024017,single nucleotide variant,NM_000546.6(TP53):c.571C>T (p.Pro191Ser),TP53,p.Pro191Ser,Uncertain significance,vus,germline,germline,191,P,S,p.P191S
+1013157,1021934,single nucleotide variant,NM_000546.6(TP53):c.568C>G (p.Pro190Ala),TP53,p.Pro190Ala,Uncertain significance,vus,germline,germline,190,P,A,p.P190A
+1013159,1026335,single nucleotide variant,NM_000546.6(TP53):c.476C>A (p.Ala159Asp),TP53,p.Ala159Asp,Pathogenic/Likely pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,159,A,D,p.A159D
+1013160,1027110,single nucleotide variant,NM_000546.6(TP53):c.434T>G (p.Leu145Arg),TP53,p.Leu145Arg,Uncertain significance,vus,germline,germline,145,L,R,p.L145R
+1013163,1021578,single nucleotide variant,NM_000546.6(TP53):c.371G>C (p.Cys124Ser),TP53,p.Cys124Ser,Uncertain significance,vus,germline,germline,124,C,S,p.C124S
+1013164,1026336,single nucleotide variant,NM_000546.6(TP53):c.289G>A (p.Val97Ile),TP53,p.Val97Ile,Uncertain significance,vus,germline,germline,97,V,I,p.V97I
+1013165,1021579,single nucleotide variant,NM_000546.6(TP53):c.244C>T (p.Pro82Ser),TP53,p.Pro82Ser,Uncertain significance,vus,germline,germline,82,P,S,p.P82S
+1013167,1016947,single nucleotide variant,NM_000546.6(TP53):c.43A>C (p.Ser15Arg),TP53,p.Ser15Arg,Uncertain significance,vus,germline,germline,15,S,R,p.S15R
+1033672,1042468,Indel,NM_000546.6(TP53):c.838_840delinsCTC (p.Arg280Leu),TP53,p.Arg280Leu,Uncertain significance,vus,germline,germline,280,R,L,p.R280L
+1033673,1036853,single nucleotide variant,NM_000546.6(TP53):c.719G>T (p.Ser240Ile),TP53,p.Ser240Ile,Uncertain significance,vus,germline,germline,240,S,I,p.S240I
+1033676,1036209,single nucleotide variant,NM_000546.6(TP53):c.575A>C (p.Gln192Pro),TP53,p.Gln192Pro,Uncertain significance,vus,germline,germline,192,Q,P,p.Q192P
+1033677,1039474,single nucleotide variant,NM_000546.6(TP53):c.292C>G (p.Pro98Ala),TP53,p.Pro98Ala,Uncertain significance,vus,germline,germline,98,P,A,p.P98A
+1033678,1035024,single nucleotide variant,NM_000546.6(TP53):c.115G>A (p.Ala39Thr),TP53,p.Ala39Thr,Uncertain significance,vus,germline,germline,39,A,T,p.A39T
+1033679,1043464,single nucleotide variant,NM_000546.6(TP53):c.97T>A (p.Ser33Thr),TP53,p.Ser33Thr,Uncertain significance,vus,germline,germline,33,S,T,p.S33T
+1050658,1059527,single nucleotide variant,NM_000546.6(TP53):c.1118A>T (p.Lys373Met),TP53,p.Lys373Met,Uncertain significance,vus,germline,germline,373,K,M,p.K373M
+1050661,1061283,single nucleotide variant,NM_000546.6(TP53):c.1060C>G (p.Gln354Glu),TP53,p.Gln354Glu,Uncertain significance,vus,germline,germline,354,Q,E,p.Q354E
+1050662,1055894,single nucleotide variant,NM_000546.6(TP53):c.1025G>T (p.Arg342Leu),TP53,p.Arg342Leu,Uncertain significance,vus,germline,germline,342,R,L,p.R342L
+1050665,1053765,single nucleotide variant,NM_000546.6(TP53):c.754C>T (p.Leu252Phe),TP53,p.Leu252Phe,Uncertain significance,vus,germline,germline,252,L,F,p.L252F
+1050668,1053808,single nucleotide variant,NM_000546.6(TP53):c.640C>T (p.His214Tyr),TP53,p.His214Tyr,Uncertain significance,vus,germline,germline,214,H,Y,p.H214Y
+1050669,1061739,single nucleotide variant,NM_000546.6(TP53):c.598A>G (p.Asn200Asp),TP53,p.Asn200Asp,Uncertain significance,vus,germline,germline,200,N,D,p.N200D
+1050671,1058186,single nucleotide variant,NM_000546.6(TP53):c.522G>C (p.Arg174Ser),TP53,p.Arg174Ser,Uncertain significance,vus,germline,germline,174,R,S,p.R174S
+1050672,1058730,single nucleotide variant,NM_000546.6(TP53):c.455C>A (p.Pro152Gln),TP53,p.Pro152Gln,Uncertain significance,vus,germline,germline,152,P,Q,p.P152Q
+1050673,1053218,single nucleotide variant,NM_000546.6(TP53):c.412G>A (p.Ala138Thr),TP53,p.Ala138Thr,Uncertain significance,vus,germline,germline,138,A,T,p.A138T
+1050674,1057941,single nucleotide variant,NM_000546.6(TP53):c.392A>G (p.Asn131Ser),TP53,p.Asn131Ser,Uncertain significance,vus,germline;not applicable;somatic,germline/somatic,131,N,S,p.N131S
+1050675,1054765,single nucleotide variant,NM_000546.6(TP53):c.377A>C (p.Tyr126Ser),TP53,p.Tyr126Ser,Uncertain significance,vus,germline,germline,126,Y,S,p.Y126S
+1050676,1055289,single nucleotide variant,NM_000546.6(TP53):c.350G>C (p.Gly117Ala),TP53,p.Gly117Ala,Uncertain significance,vus,germline,germline,117,G,A,p.G117A
+1050677,1054035,single nucleotide variant,NM_000546.6(TP53):c.326T>A (p.Phe109Tyr),TP53,p.Phe109Tyr,Uncertain significance,vus,germline,germline,109,F,Y,p.F109Y
+1050678,1059163,single nucleotide variant,NM_000546.6(TP53):c.301A>G (p.Lys101Glu),TP53,p.Lys101Glu,Uncertain significance,vus,germline,germline,101,K,E,p.K101E
+1056473,1067910,single nucleotide variant,NM_000546.6(TP53):c.472C>A (p.Arg158Ser),TP53,p.Arg158Ser,Pathogenic,pathogenic,germline;somatic,germline/somatic,158,R,S,p.R158S
+1161410,1171287,single nucleotide variant,NM_000546.6(TP53):c.226G>A (p.Ala76Thr),TP53,p.Ala76Thr,Uncertain significance,vus,germline,germline,76,A,T,p.A76T
+1162106,1172923,single nucleotide variant,NM_000546.6(TP53):c.866T>C (p.Leu289Pro),TP53,p.Leu289Pro,Likely benign,benign,germline,germline,289,L,P,p.L289P
+1162107,1172924,single nucleotide variant,NM_000546.6(TP53):c.46C>A (p.Gln16Lys),TP53,p.Gln16Lys,Uncertain significance,vus,germline,germline,16,Q,K,p.Q16K
+1195255,1205464,single nucleotide variant,NM_000546.6(TP53):c.1084A>G (p.Ser362Gly),TP53,p.Ser362Gly,Uncertain significance,vus,germline,germline,362,S,G,p.S362G
+1306788,1316970,single nucleotide variant,NM_000546.6(TP53):c.748C>T (p.Pro250Ser),TP53,p.Pro250Ser,Uncertain significance,vus,germline,germline,250,P,S,p.P250S
+1307825,1316731,single nucleotide variant,NM_000546.6(TP53):c.197T>C (p.Met66Thr),TP53,p.Met66Thr,Uncertain significance,vus,germline,germline,66,M,T,p.M66T
+1309655,1319402,single nucleotide variant,NM_000546.6(TP53):c.335G>A (p.Gly112Asp),TP53,p.Gly112Asp,Uncertain significance,vus,germline,germline,112,G,D,p.G112D
+1323315,1332597,single nucleotide variant,NM_000546.6(TP53):c.901C>G (p.Pro301Ala),TP53,p.Pro301Ala,Uncertain significance,vus,germline,germline,301,P,A,p.P301A
+1329376,1338368,Indel,NM_000546.6(TP53):c.867_868delinsAA (p.Arg290Ser),TP53,p.Arg290Ser,Uncertain significance,vus,germline,germline,290,R,S,p.R290S
+1329664,1338658,single nucleotide variant,NM_000546.6(TP53):c.416A>C (p.Lys139Thr),TP53,p.Lys139Thr,Uncertain significance,vus,germline,germline,139,K,T,p.K139T
+1335196,1343497,single nucleotide variant,NM_000546.6(TP53):c.263C>G (p.Ala88Gly),TP53,p.Ala88Gly,Uncertain significance,vus,germline,germline,88,A,G,p.A88G
+1337781,1366616,single nucleotide variant,NM_000546.6(TP53):c.689C>T (p.Thr230Ile),TP53,p.Thr230Ile,Uncertain significance,vus,germline,germline,230,T,I,p.T230I
+1340458,1409387,single nucleotide variant,NM_000546.6(TP53):c.989T>A (p.Leu330His),TP53,p.Leu330His,Uncertain significance,vus,germline,germline,330,L,H,p.L330H
+1342694,1491657,single nucleotide variant,NM_000546.6(TP53):c.175G>C (p.Gly59Arg),TP53,p.Gly59Arg,Uncertain significance,vus,germline,germline,59,G,R,p.G59R
+1343038,1518844,single nucleotide variant,NM_000546.6(TP53):c.751A>T (p.Ile251Phe),TP53,p.Ile251Phe,Likely pathogenic,pathogenic,germline;somatic,germline/somatic,251,I,F,p.I251F
+1350211,1494469,single nucleotide variant,NM_000546.6(TP53):c.881A>C (p.Glu294Ala),TP53,p.Glu294Ala,Uncertain significance,vus,germline,germline,294,E,A,p.E294A
+1355645,1493447,single nucleotide variant,NM_000546.6(TP53):c.672G>C (p.Glu224Asp),TP53,p.Glu224Asp,Uncertain significance,vus,germline;not applicable,germline,224,E,D,p.E224D
+1358854,1468494,single nucleotide variant,NM_000546.6(TP53):c.1063G>T (p.Ala355Ser),TP53,p.Ala355Ser,Uncertain significance,vus,germline,germline,355,A,S,p.A355S
+1361310,1386302,single nucleotide variant,NM_000546.6(TP53):c.1103A>G (p.His368Arg),TP53,p.His368Arg,Uncertain significance,vus,germline,germline,368,H,R,p.H368R
+1365014,1509393,single nucleotide variant,NM_000546.6(TP53):c.401T>A (p.Phe134Tyr),TP53,p.Phe134Tyr,Uncertain significance,vus,germline,germline,134,F,Y,p.F134Y
+1369970,1414768,single nucleotide variant,NM_000546.6(TP53):c.1090G>A (p.Ala364Thr),TP53,p.Ala364Thr,Uncertain significance,vus,germline,germline,364,A,T,p.A364T
+1370198,1469089,single nucleotide variant,NM_000546.6(TP53):c.901C>T (p.Pro301Ser),TP53,p.Pro301Ser,Uncertain significance,vus,germline,germline,301,P,S,p.P301S
+1371067,1388326,single nucleotide variant,NM_000546.6(TP53):c.185A>C (p.Glu62Ala),TP53,p.Glu62Ala,Uncertain significance,vus,germline,germline,62,E,A,p.E62A
+1374247,1417760,Inversion,NM_000546.6(TP53):c.821_822inv (p.Val274Glu),TP53,p.Val274Glu,Uncertain significance,vus,germline,germline,274,V,E,p.V274E
+1374830,1415322,single nucleotide variant,NM_000546.6(TP53):c.52A>T (p.Thr18Ser),TP53,p.Thr18Ser,Uncertain significance,vus,germline,germline,18,T,S,p.T18S
+1376514,1361888,single nucleotide variant,NM_000546.6(TP53):c.147T>A (p.Asp49Glu),TP53,p.Asp49Glu,Uncertain significance,vus,germline,germline,49,D,E,p.D49E
+1386067,1364128,single nucleotide variant,NM_000546.6(TP53):c.787A>T (p.Asn263Tyr),TP53,p.Asn263Tyr,Uncertain significance,vus,germline,germline,263,N,Y,p.N263Y
+1394385,1349622,single nucleotide variant,NM_000546.6(TP53):c.775G>C (p.Asp259His),TP53,p.Asp259His,Uncertain significance,vus,germline,germline,259,D,H,p.D259H
+1395909,1525853,single nucleotide variant,NM_000546.6(TP53):c.418A>T (p.Thr140Ser),TP53,p.Thr140Ser,Uncertain significance,vus,germline,germline,140,T,S,p.T140S
+1411524,1366182,single nucleotide variant,NM_000546.6(TP53):c.181G>T (p.Asp61Tyr),TP53,p.Asp61Tyr,Uncertain significance,vus,germline,germline,61,D,Y,p.D61Y
+1425063,1395664,single nucleotide variant,NM_000546.6(TP53):c.1021T>A (p.Phe341Ile),TP53,p.Phe341Ile,Uncertain significance,vus,germline,germline,341,F,I,p.F341I
+1425066,1395667,single nucleotide variant,NM_000546.6(TP53):c.682G>A (p.Asp228Asn),TP53,p.Asp228Asn,Uncertain significance,vus,germline,germline,228,D,N,p.D228N
+1426262,1478891,single nucleotide variant,NM_000546.6(TP53):c.444T>G (p.Asp148Glu),TP53,p.Asp148Glu,Uncertain significance,vus,germline,germline,148,D,E,p.D148E
+1426645,1479275,single nucleotide variant,NM_000546.6(TP53):c.560G>C (p.Gly187Ala),TP53,p.Gly187Ala,Uncertain significance,vus,germline,germline,187,G,A,p.G187A
+1431651,1425412,single nucleotide variant,NM_000546.6(TP53):c.170A>C (p.Asp57Ala),TP53,p.Asp57Ala,Uncertain significance,vus,germline,germline,57,D,A,p.D57A
+1442188,1510133,single nucleotide variant,NM_000546.6(TP53):c.989T>G (p.Leu330Arg),TP53,p.Leu330Arg,Uncertain significance,vus,germline,germline,330,L,R,p.L330R
+1445834,1509915,single nucleotide variant,NM_000546.6(TP53):c.540G>C (p.Glu180Asp),TP53,p.Glu180Asp,Uncertain significance,vus,germline,germline,180,E,D,p.E180D
+1448789,1465964,single nucleotide variant,NM_000546.6(TP53):c.365T>C (p.Val122Ala),TP53,p.Val122Ala,Uncertain significance,vus,germline,germline,122,V,A,p.V122A
+1450045,1371608,single nucleotide variant,NM_000546.6(TP53):c.323G>A (p.Gly108Asp),TP53,p.Gly108Asp,Uncertain significance,vus,germline,germline,108,G,D,p.G108D
+1468418,1485939,single nucleotide variant,NM_000546.6(TP53):c.10C>T (p.Pro4Ser),TP53,p.Pro4Ser,Uncertain significance,vus,germline,germline,4,P,S,p.P4S
+1470152,1375764,single nucleotide variant,NM_000546.6(TP53):c.413C>G (p.Ala138Gly),TP53,p.Ala138Gly,Uncertain significance,vus,germline,germline,138,A,G,p.A138G
+1473964,1360091,single nucleotide variant,NM_000546.6(TP53):c.774A>C (p.Glu258Asp),TP53,p.Glu258Asp,Uncertain significance,vus,germline;unknown,germline,258,E,D,p.E258D
+1473972,1360099,single nucleotide variant,NM_000546.6(TP53):c.359A>G (p.Lys120Arg),TP53,p.Lys120Arg,Uncertain significance,vus,germline,germline,120,K,R,p.K120R
+1475500,1469551,single nucleotide variant,NM_000546.6(TP53):c.337T>A (p.Phe113Ile),TP53,p.Phe113Ile,Pathogenic/Likely pathogenic,pathogenic,germline,germline,113,F,I,p.F113I
+1476072,1497451,single nucleotide variant,NM_000546.6(TP53):c.993G>C (p.Gln331His),TP53,p.Gln331His,Uncertain significance,vus,germline;not applicable;somatic,germline/somatic,331,Q,H,p.Q331H
+1476500,1361776,single nucleotide variant,NM_000546.6(TP53):c.220G>T (p.Ala74Ser),TP53,p.Ala74Ser,Uncertain significance,vus,germline,germline,74,A,S,p.A74S
+1488041,1444043,single nucleotide variant,NM_000546.6(TP53):c.293C>G (p.Pro98Arg),TP53,p.Pro98Arg,Uncertain significance,vus,germline,germline,98,P,R,p.P98R
+1488176,1471105,single nucleotide variant,NM_000546.6(TP53):c.926C>T (p.Pro309Leu),TP53,p.Pro309Leu,Uncertain significance,vus,germline;unknown,germline,309,P,L,p.P309L
+1492858,1378428,single nucleotide variant,NM_000546.6(TP53):c.566C>G (p.Ala189Gly),TP53,p.Ala189Gly,Uncertain significance,vus,germline,germline,189,A,G,p.A189G
+1494311,1434495,single nucleotide variant,NM_000546.6(TP53):c.836G>T (p.Gly279Val),TP53,p.Gly279Val,Uncertain significance,vus,germline,germline,279,G,V,p.G279V
+1494727,1461784,single nucleotide variant,NM_000546.6(TP53):c.665C>A (p.Pro222Gln),TP53,p.Pro222Gln,Uncertain significance,vus,germline,germline,222,P,Q,p.P222Q
+1495306,1489700,single nucleotide variant,NM_000546.6(TP53):c.544T>G (p.Cys182Gly),TP53,p.Cys182Gly,Uncertain significance,vus,germline,germline,182,C,G,p.C182G
+1501275,1473030,single nucleotide variant,NM_000546.6(TP53):c.157T>A (p.Trp53Arg),TP53,p.Trp53Arg,Uncertain significance,vus,germline,germline,53,W,R,p.W53R
+1501671,1500748,single nucleotide variant,NM_000546.6(TP53):c.416A>G (p.Lys139Arg),TP53,p.Lys139Arg,Uncertain significance,vus,germline,germline,139,K,R,p.K139R
+1502264,1365220,single nucleotide variant,NM_000546.6(TP53):c.877G>C (p.Gly293Arg),TP53,p.Gly293Arg,Uncertain significance,vus,germline,germline,293,G,R,p.G293R
+1504619,1460570,single nucleotide variant,NM_000546.6(TP53):c.368C>G (p.Thr123Ser),TP53,p.Thr123Ser,Uncertain significance,vus,germline,germline,123,T,S,p.T123S
+1505256,1515391,single nucleotide variant,NM_000546.6(TP53):c.89A>T (p.Asn30Ile),TP53,p.Asn30Ile,Uncertain significance,vus,germline,germline,30,N,I,p.N30I
+1505394,1515529,single nucleotide variant,NM_000546.6(TP53):c.469G>C (p.Val157Leu),TP53,p.Val157Leu,Uncertain significance,vus,germline,germline,157,V,L,p.V157L
+1511175,1465351,single nucleotide variant,NM_000546.6(TP53):c.292C>A (p.Pro98Thr),TP53,p.Pro98Thr,Uncertain significance,vus,germline,germline,98,P,T,p.P98T
+1515927,1493091,single nucleotide variant,NM_000546.6(TP53):c.1150A>T (p.Met384Leu),TP53,p.Met384Leu,Uncertain significance,vus,germline,germline,384,M,L,p.M384L
+1516923,1519634,single nucleotide variant,NM_000546.6(TP53):c.401T>C (p.Phe134Ser),TP53,p.Phe134Ser,Uncertain significance,vus,germline,germline,134,F,S,p.F134S
+1684913,1692473,single nucleotide variant,NM_000546.6(TP53):c.415A>C (p.Lys139Gln),TP53,p.Lys139Gln,Uncertain significance,vus,germline,germline,139,K,Q,p.K139Q
+1689976,1697592,single nucleotide variant,NM_000546.6(TP53):c.935C>T (p.Thr312Ile),TP53,p.Thr312Ile,Uncertain significance,vus,germline,germline,312,T,I,p.T312I
+1771439,1716142,single nucleotide variant,NM_000546.6(TP53):c.1067G>C (p.Gly356Ala),TP53,p.Gly356Ala,Uncertain significance,vus,germline,germline,356,G,A,p.G356A
+1771820,1717844,single nucleotide variant,NM_000546.6(TP53):c.113A>G (p.Gln38Arg),TP53,p.Gln38Arg,Uncertain significance,vus,germline,germline,38,Q,R,p.Q38R
+1773208,1713937,Indel,NM_000546.6(TP53):c.409_410delinsGA (p.Leu137Glu),TP53,p.Leu137Glu,Uncertain significance,vus,germline,germline,137,L,E,p.L137E
+1773400,1714129,single nucleotide variant,NM_000546.6(TP53):c.197T>G (p.Met66Arg),TP53,p.Met66Arg,Uncertain significance,vus,germline,germline,66,M,R,p.M66R
+1778931,1718571,single nucleotide variant,NM_000546.6(TP53):c.876A>C (p.Lys292Asn),TP53,p.Lys292Asn,Uncertain significance,vus,germline,germline,292,K,N,p.K292N
+1779214,1720175,single nucleotide variant,NM_000546.6(TP53):c.929A>T (p.Asn310Ile),TP53,p.Asn310Ile,Uncertain significance,vus,germline,germline,310,N,I,p.N310I
+1779345,1720306,single nucleotide variant,NM_000546.6(TP53):c.964C>G (p.Pro322Ala),TP53,p.Pro322Ala,Uncertain significance,vus,germline,germline,322,P,A,p.P322A
+1779556,1721838,single nucleotide variant,NM_000546.6(TP53):c.139C>G (p.Pro47Ala),TP53,p.Pro47Ala,Uncertain significance,vus,germline,germline,47,P,A,p.P47A
+1785575,1729287,single nucleotide variant,NM_000546.6(TP53):c.323G>T (p.Gly108Val),TP53,p.Gly108Val,Uncertain significance,vus,germline,germline,108,G,V,p.G108V
+1786461,1732774,single nucleotide variant,NM_000546.6(TP53):c.356C>A (p.Ala119Asp),TP53,p.Ala119Asp,Uncertain significance,vus,germline,germline,119,A,D,p.A119D
+1786872,1734453,single nucleotide variant,NM_000546.6(TP53):c.373A>G (p.Thr125Ala),TP53,p.Thr125Ala,Uncertain significance,vus,germline;somatic,germline/somatic,125,T,A,p.T125A
+1787548,1737684,single nucleotide variant,NM_000546.6(TP53):c.1164A>T (p.Glu388Asp),TP53,p.Glu388Asp,Likely benign,benign,germline,germline,388,E,D,p.E388D
+1789358,1732327,single nucleotide variant,NM_000546.6(TP53):c.1145A>T (p.Lys382Ile),TP53,p.Lys382Ile,Uncertain significance,vus,germline,germline,382,K,I,p.K382I
+1790163,1735669,single nucleotide variant,NM_000546.6(TP53):c.386C>A (p.Ala129Asp),TP53,p.Ala129Asp,Benign,benign,germline,germline,129,A,D,p.A129D
+1790490,1737291,single nucleotide variant,NM_000546.6(TP53):c.1162G>C (p.Glu388Gln),TP53,p.Glu388Gln,Likely benign,benign,germline,germline,388,E,Q,p.E388Q
+1798499,1742298,single nucleotide variant,NM_000546.6(TP53):c.466C>A (p.Arg156Ser),TP53,p.Arg156Ser,Uncertain significance,vus,germline,germline,156,R,S,p.R156S
+1800857,1751128,single nucleotide variant,NM_000546.6(TP53):c.601T>A (p.Leu201Met),TP53,p.Leu201Met,Uncertain significance,vus,germline,germline,201,L,M,p.L201M
+1801530,1741887,single nucleotide variant,NM_000546.6(TP53):c.460G>T (p.Gly154Cys),TP53,p.Gly154Cys,Uncertain significance,vus,germline,germline,154,G,C,p.G154C
+1801895,1743548,single nucleotide variant,NM_000546.6(TP53):c.484A>G (p.Ile162Val),TP53,p.Ile162Val,Uncertain significance,vus,germline,germline,162,I,V,p.I162V
+1802577,1745525,single nucleotide variant,NM_000546.6(TP53):c.512A>G (p.Glu171Gly),TP53,p.Glu171Gly,Pathogenic,pathogenic,germline,germline,171,E,G,p.E171G
+1803756,1750606,single nucleotide variant,NM_000546.6(TP53):c.593A>G (p.Glu198Gly),TP53,p.Glu198Gly,Uncertain significance,vus,germline,germline,198,E,G,p.E198G
+1804187,1752332,single nucleotide variant,NM_000546.6(TP53):c.622G>A (p.Asp208Asn),TP53,p.Asp208Asn,Likely benign,benign,germline,germline,208,D,N,p.D208N
+1804667,1754112,single nucleotide variant,NM_000546.6(TP53):c.653T>A (p.Val218Glu),TP53,p.Val218Glu,Likely pathogenic,pathogenic,germline;unknown,germline,218,V,E,p.V218E
+1805779,1744933,single nucleotide variant,NM_000546.6(TP53):c.503A>T (p.His168Leu),TP53,p.His168Leu,Pathogenic,pathogenic,germline;somatic,germline/somatic,168,H,L,p.H168L
+1805847,1745001,single nucleotide variant,NM_000546.6(TP53):c.504C>G (p.His168Gln),TP53,p.His168Gln,Uncertain significance,vus,germline,germline,168,H,Q,p.H168Q
+1806528,1748280,single nucleotide variant,NM_000546.6(TP53):c.555C>G (p.Ser185Arg),TP53,p.Ser185Arg,Likely benign,benign,germline,germline,185,S,R,p.S185R
+1807394,1751713,single nucleotide variant,NM_000546.6(TP53):c.611A>T (p.Glu204Val),TP53,p.Glu204Val,Uncertain significance,vus,germline,germline,204,E,V,p.E204V
+1807905,1753522,single nucleotide variant,NM_000546.6(TP53):c.643A>T (p.Ser215Cys),TP53,p.Ser215Cys,Uncertain significance,vus,germline,germline,215,S,C,p.S215C
+1808497,1741120,single nucleotide variant,NM_000546.6(TP53):c.1177G>T (p.Asp393Tyr),TP53,p.Asp393Tyr,Likely benign,benign,germline,germline,393,D,Y,p.D393Y
+1813445,1759844,single nucleotide variant,NM_000546.6(TP53):c.761T>C (p.Ile254Thr),TP53,p.Ile254Thr,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,254,I,T,p.I254T
+1813848,1761541,single nucleotide variant,NM_000546.6(TP53):c.799C>G (p.Arg267Gly),TP53,p.Arg267Gly,Pathogenic,pathogenic,germline;somatic;unknown,germline/somatic,267,R,G,p.R267G
+1814019,1762926,single nucleotide variant,NM_000546.6(TP53):c.831T>G (p.Cys277Trp),TP53,p.Cys277Trp,Uncertain significance,vus,germline,germline,277,C,W,p.C277W
+1814726,1766148,single nucleotide variant,NM_000546.6(TP53):c.919G>C (p.Ala307Pro),TP53,p.Ala307Pro,Uncertain significance,vus,germline,germline,307,A,P,p.A307P
+1815032,1766454,single nucleotide variant,NM_000546.6(TP53):c.929A>G (p.Asn310Ser),TP53,p.Asn310Ser,Likely benign,benign,germline,germline,310,N,S,p.N310S
+1816047,1759140,single nucleotide variant,NM_000546.6(TP53):c.748C>A (p.Pro250Thr),TP53,p.Pro250Thr,Uncertain significance,vus,germline,germline,250,P,T,p.P250T
+1816049,1759142,single nucleotide variant,NM_000546.6(TP53):c.748C>G (p.Pro250Ala),TP53,p.Pro250Ala,Uncertain significance,vus,germline;unknown,germline,250,P,A,p.P250A
+1816119,1759212,single nucleotide variant,NM_000546.6(TP53):c.74T>G (p.Leu25Arg),TP53,p.Leu25Arg,Uncertain significance,vus,germline,germline,25,L,R,p.L25R
+1816222,1759315,single nucleotide variant,NM_000546.6(TP53):c.751A>G (p.Ile251Val),TP53,p.Ile251Val,Uncertain significance,vus,germline,germline,251,I,V,p.I251V
+1816234,1759327,single nucleotide variant,NM_000546.6(TP53):c.1020G>T (p.Met340Ile),TP53,p.Met340Ile,Likely benign,benign,germline,germline,340,M,I,p.M340I
+1816503,1760888,single nucleotide variant,NM_000546.6(TP53):c.784G>C (p.Gly262Arg),TP53,p.Gly262Arg,Uncertain significance,vus,germline,germline,262,G,R,p.G262R
+1819131,1757126,single nucleotide variant,NM_000546.6(TP53):c.709A>C (p.Met237Leu),TP53,p.Met237Leu,Uncertain significance,vus,germline,germline,237,M,L,p.M237L
+1821018,1765377,single nucleotide variant,NM_000546.6(TP53):c.899C>T (p.Pro300Leu),TP53,p.Pro300Leu,Likely benign,benign,germline,germline,300,P,L,p.P300L
+1821503,1767161,single nucleotide variant,NM_000546.6(TP53):c.94C>G (p.Leu32Val),TP53,p.Leu32Val,Likely benign,benign,germline,germline,32,L,V,p.L32V
+1824915,1766672,single nucleotide variant,NM_000546.6(TP53):c.935C>A (p.Thr312Asn),TP53,p.Thr312Asn,Likely benign,benign,germline,germline,312,T,N,p.T312N
+1825732,1768732,single nucleotide variant,NM_000546.6(TP53):c.995T>A (p.Ile332Asn),TP53,p.Ile332Asn,Likely pathogenic,pathogenic,germline,germline,332,I,N,p.I332N
+1825734,1768734,single nucleotide variant,NM_000546.6(TP53):c.995T>C (p.Ile332Thr),TP53,p.Ile332Thr,Uncertain significance,vus,germline,germline,332,I,T,p.I332T
+1826034,1769035,single nucleotide variant,NM_000546.6(TP53):c.1024C>G (p.Arg342Gly),TP53,p.Arg342Gly,Uncertain significance,vus,germline,germline,342,R,G,p.R342G
+1830076,1773570,single nucleotide variant,NM_000546.6(TP53):c.1039G>T (p.Ala347Ser),TP53,p.Ala347Ser,Uncertain significance,vus,germline,germline,347,A,S,p.A347S
+1830620,1775423,single nucleotide variant,NM_000546.6(TP53):c.1046A>G (p.Glu349Gly),TP53,p.Glu349Gly,Likely benign,benign,germline,germline,349,E,G,p.E349G
+1831528,1778944,single nucleotide variant,NM_000546.6(TP53):c.172C>G (p.Pro58Ala),TP53,p.Pro58Ala,Likely benign,benign,germline,germline,58,P,A,p.P58A
+1832360,1769875,single nucleotide variant,NM_000546.6(TP53):c.131T>A (p.Met44Lys),TP53,p.Met44Lys,Uncertain significance,vus,germline,germline,44,M,K,p.M44K
+1832364,1769879,single nucleotide variant,NM_000546.6(TP53):c.131T>C (p.Met44Thr),TP53,p.Met44Thr,Uncertain significance,vus,germline,germline,44,M,T,p.M44T
+1834492,1778520,single nucleotide variant,NM_000546.6(TP53):c.170A>T (p.Asp57Val),TP53,p.Asp57Val,Likely benign,benign,germline,germline,57,D,V,p.D57V
+1836139,1771001,single nucleotide variant,NM_000546.6(TP53):c.1030C>A (p.Leu344Met),TP53,p.Leu344Met,Uncertain significance,vus,germline,germline,344,L,M,p.L344M
+1838211,1779558,single nucleotide variant,NM_000546.6(TP53):c.175G>A (p.Gly59Ser),TP53,p.Gly59Ser,Uncertain significance,vus,germline,germline,59,G,S,p.G59S
+1839353,1781085,single nucleotide variant,NM_000546.6(TP53):c.1063G>A (p.Ala355Thr),TP53,p.Ala355Thr,Likely benign,benign,germline,germline,355,A,T,p.A355T
+1839674,1783578,single nucleotide variant,NM_000546.6(TP53):c.196A>G (p.Met66Val),TP53,p.Met66Val,Likely benign,benign,germline,germline,66,M,V,p.M66V
+1840325,1785528,single nucleotide variant,NM_000546.6(TP53):c.1078G>C (p.Gly360Arg),TP53,p.Gly360Arg,Uncertain significance,vus,germline,germline,360,G,R,p.G360R
+1841583,1790682,single nucleotide variant,NM_000546.6(TP53):c.239C>T (p.Pro80Leu),TP53,p.Pro80Leu,Uncertain significance,vus,germline,germline,80,P,L,p.P80L
+1841606,1790705,single nucleotide variant,NM_000546.6(TP53):c.23C>G (p.Pro8Arg),TP53,p.Pro8Arg,Likely benign,benign,germline,germline,8,P,R,p.P8R
+1843943,1786573,Inversion,NM_000546.6(TP53):c.214_215inv (p.Pro72Gly),TP53,p.Pro72Gly,Uncertain significance,vus,germline,germline,72,P,G,p.P72G
+1844838,1790091,single nucleotide variant,NM_000546.6(TP53):c.1094A>C (p.His365Pro),TP53,p.His365Pro,Uncertain significance,vus,germline,germline,365,H,P,p.H365P
+1845896,1793771,single nucleotide variant,NM_000546.6(TP53):c.260C>G (p.Pro87Arg),TP53,p.Pro87Arg,Uncertain significance,vus,germline,germline,87,P,R,p.P87R
+1849717,1784158,single nucleotide variant,NM_000546.6(TP53):c.19G>A (p.Asp7Asn),TP53,p.Asp7Asn,Uncertain significance,vus,germline,germline,7,D,N,p.D7N
+1852239,1794493,single nucleotide variant,NM_000546.6(TP53):c.1109A>T (p.Lys370Met),TP53,p.Lys370Met,Uncertain significance,vus,germline,germline,370,K,M,p.K370M
+1852443,1794698,single nucleotide variant,NM_000546.6(TP53):c.110C>G (p.Ser37Cys),TP53,p.Ser37Cys,Uncertain significance,vus,germline,germline,37,S,C,p.S37C
+1852861,1796426,single nucleotide variant,NM_000546.6(TP53):c.281C>T (p.Ser94Leu),TP53,p.Ser94Leu,Likely benign,benign,germline,germline,94,S,L,p.S94L
+1853557,1797938,single nucleotide variant,NM_000546.6(TP53):c.1121G>T (p.Gly374Val),TP53,p.Gly374Val,Likely benign,benign,germline,germline,374,G,V,p.G374V
+1854492,1797574,single nucleotide variant,NM_000546.6(TP53):c.290T>C (p.Val97Ala),TP53,p.Val97Ala,Uncertain significance,vus,germline,germline,97,V,A,p.V97A
+1854840,1799231,single nucleotide variant,NM_000546.6(TP53):c.304A>G (p.Thr102Ala),TP53,p.Thr102Ala,Uncertain significance,vus,germline,germline,102,T,A,p.T102A
+1855388,1796813,single nucleotide variant,NM_000546.6(TP53):c.284C>T (p.Ser95Phe),TP53,p.Ser95Phe,Uncertain significance,vus,germline,germline,95,S,F,p.S95F
+1856285,1799016,single nucleotide variant,NM_000546.6(TP53):c.1125G>T (p.Gln375His),TP53,p.Gln375His,Uncertain significance,vus,germline,germline,375,Q,H,p.Q375H
+1856525,1798385,single nucleotide variant,NM_000546.6(TP53):c.1123C>A (p.Gln375Lys),TP53,p.Gln375Lys,Likely benign,benign,germline,germline,375,Q,K,p.Q375K
+1871515,2137906,single nucleotide variant,NM_000546.6(TP53):c.566C>A (p.Ala189Asp),TP53,p.Ala189Asp,Uncertain significance,vus,germline,germline,189,A,D,p.A189D
+1895925,2168377,single nucleotide variant,NM_000546.6(TP53):c.218T>C (p.Val73Ala),TP53,p.Val73Ala,Uncertain significance,vus,germline,germline,73,V,A,p.V73A
+1937612,2417541,Inversion,NM_000546.6(TP53):c.324_326inv (p.Phe109Asn),TP53,p.Phe109Asn,Uncertain significance,vus,germline,germline,109,F,N,p.F109N
+1982233,1933263,single nucleotide variant,NM_000546.6(TP53):c.889C>T (p.His297Tyr),TP53,p.His297Tyr,Uncertain significance,vus,germline,germline,297,H,Y,p.H297Y
+2001333,1941172,single nucleotide variant,NM_000546.6(TP53):c.227C>T (p.Ala76Val),TP53,p.Ala76Val,Uncertain significance,vus,germline,germline,76,A,V,p.A76V
+2051762,2003705,single nucleotide variant,NM_000546.6(TP53):c.223C>A (p.Pro75Thr),TP53,p.Pro75Thr,Uncertain significance,vus,germline,germline,75,P,T,p.P75T
+2052342,2005578,single nucleotide variant,NM_000546.6(TP53):c.1096T>A (p.Ser366Thr),TP53,p.Ser366Thr,Uncertain significance,vus,germline,germline,366,S,T,p.S366T
+2052620,1992967,single nucleotide variant,NM_000546.6(TP53):c.485T>C (p.Ile162Thr),TP53,p.Ile162Thr,Uncertain significance,vus,germline,germline,162,I,T,p.I162T
+2053966,1998185,single nucleotide variant,NM_000546.6(TP53):c.1066G>T (p.Gly356Trp),TP53,p.Gly356Trp,Uncertain significance,vus,germline,germline,356,G,W,p.G356W
+2069440,2006345,single nucleotide variant,NM_000546.6(TP53):c.598A>C (p.Asn200His),TP53,p.Asn200His,Uncertain significance,vus,germline,germline,200,N,H,p.N200H
+2077012,2024235,single nucleotide variant,NM_000546.6(TP53):c.115G>T (p.Ala39Ser),TP53,p.Ala39Ser,Uncertain significance,vus,germline,germline,39,A,S,p.A39S
+2082768,2032550,single nucleotide variant,NM_000546.6(TP53):c.560G>T (p.Gly187Val),TP53,p.Gly187Val,Uncertain significance,vus,germline,germline,187,G,V,p.G187V
+2086417,2019530,single nucleotide variant,NM_000546.6(TP53):c.482C>T (p.Ala161Val),TP53,p.Ala161Val,Uncertain significance,vus,germline,germline,161,A,V,p.A161V
+2088997,2029805,single nucleotide variant,NM_000546.6(TP53):c.247G>A (p.Ala83Thr),TP53,p.Ala83Thr,Uncertain significance,vus,germline,germline,83,A,T,p.A83T
+2091397,2039935,Indel,NM_000546.6(TP53):c.1039_1040delinsTT (p.Ala347Phe),TP53,p.Ala347Phe,Uncertain significance,vus,germline,germline,347,A,F,p.A347F
+2135752,2080519,single nucleotide variant,NM_000546.6(TP53):c.431A>G (p.Gln144Arg),TP53,p.Gln144Arg,Uncertain significance,vus,germline,germline,144,Q,R,p.Q144R
+2137310,2087249,single nucleotide variant,NM_000546.6(TP53):c.130A>C (p.Met44Leu),TP53,p.Met44Leu,Uncertain significance,vus,germline,germline,44,M,L,p.M44L
+2138889,2078374,single nucleotide variant,NM_000546.6(TP53):c.1086C>A (p.Ser362Arg),TP53,p.Ser362Arg,Uncertain significance,vus,germline,germline,362,S,R,p.S362R
+2139473,2081538,single nucleotide variant,NM_000546.6(TP53):c.953C>G (p.Pro318Arg),TP53,p.Pro318Arg,Uncertain significance,vus,germline,germline,318,P,R,p.P318R
+2153474,2095568,single nucleotide variant,NM_000546.6(TP53):c.1174T>C (p.Ser392Pro),TP53,p.Ser392Pro,Uncertain significance,vus,germline,germline,392,S,P,p.S392P
+2159788,2108374,single nucleotide variant,NM_000546.6(TP53):c.25A>G (p.Ser9Gly),TP53,p.Ser9Gly,Uncertain significance,vus,germline,germline,9,S,G,p.S9G
+2173806,2122381,single nucleotide variant,NM_000546.6(TP53):c.673G>T (p.Val225Phe),TP53,p.Val225Phe,Uncertain significance,vus,germline;not applicable,germline,225,V,F,p.V225F
+2176934,2121740,single nucleotide variant,NM_000546.6(TP53):c.364G>T (p.Val122Leu),TP53,p.Val122Leu,Uncertain significance,vus,germline,germline,122,V,L,p.V122L
+2177968,2125367,single nucleotide variant,NM_000546.6(TP53):c.339C>A (p.Phe113Leu),TP53,p.Phe113Leu,Likely pathogenic,pathogenic,germline,germline,113,F,L,p.F113L
+2180206,2119726,single nucleotide variant,NM_000546.6(TP53):c.863A>C (p.Asn288Thr),TP53,p.Asn288Thr,Uncertain significance,vus,germline,germline,288,N,T,p.N288T
+2180960,2123066,single nucleotide variant,NM_000546.6(TP53):c.1139A>G (p.His380Arg),TP53,p.His380Arg,Uncertain significance,vus,germline,germline,380,H,R,p.H380R
+2181300,2124706,Indel,NM_000546.6(TP53):c.725_726delinsCA (p.Cys242Ser),TP53,p.Cys242Ser,Uncertain significance,vus,germline,germline,242,C,S,p.C242S
+2181947,2126647,single nucleotide variant,NM_000546.6(TP53):c.1057G>T (p.Ala353Ser),TP53,p.Ala353Ser,Uncertain significance,vus,germline,germline,353,A,S,p.A353S
+2187617,2130489,single nucleotide variant,NM_000546.6(TP53):c.164C>G (p.Thr55Ser),TP53,p.Thr55Ser,Uncertain significance,vus,germline,germline,55,T,S,p.T55S
+2188809,2135554,single nucleotide variant,NM_000546.6(TP53):c.762C>G (p.Ile254Met),TP53,p.Ile254Met,Uncertain significance,vus,germline,germline,254,I,M,p.I254M
+2403662,2430159,single nucleotide variant,NM_000546.6(TP53):c.398T>A (p.Met133Lys),TP53,p.Met133Lys,Uncertain significance,vus,germline;somatic,germline/somatic,133,M,K,p.M133K
+2423225,2450739,single nucleotide variant,NM_000546.6(TP53):c.598A>T (p.Asn200Tyr),TP53,p.Asn200Tyr,Uncertain significance,vus,germline,germline,200,N,Y,p.N200Y
+2423226,2450740,single nucleotide variant,NM_000546.6(TP53):c.11C>A (p.Pro4Gln),TP53,p.Pro4Gln,Likely benign,benign,germline,germline,4,P,Q,p.P4Q
+2423231,2450745,single nucleotide variant,NM_000546.6(TP53):c.350G>A (p.Gly117Glu),TP53,p.Gly117Glu,Uncertain significance,vus,germline,germline,117,G,E,p.G117E
+2423234,2450748,Indel,NM_000546.6(TP53):c.1021_1022delinsAG (p.Phe341Ser),TP53,p.Phe341Ser,Likely pathogenic,pathogenic,germline,germline,341,F,S,p.F341S
+2423236,2450750,single nucleotide variant,NM_000546.6(TP53):c.938G>A (p.Ser313Asn),TP53,p.Ser313Asn,Likely benign,benign,germline,germline,313,S,N,p.S313N
+2423237,2450751,single nucleotide variant,NM_000546.6(TP53):c.1049T>C (p.Leu350Pro),TP53,p.Leu350Pro,Uncertain significance,vus,germline,germline,350,L,P,p.L350P
+2423240,2450754,single nucleotide variant,NM_000546.6(TP53):c.1006G>C (p.Glu336Gln),TP53,p.Glu336Gln,Likely benign,benign,germline,germline,336,E,Q,p.E336Q
+2423244,2450758,single nucleotide variant,NM_000546.6(TP53):c.972T>A (p.Asp324Glu),TP53,p.Asp324Glu,Likely benign,benign,germline,germline,324,D,E,p.D324E
+2423245,2450759,single nucleotide variant,NM_000546.6(TP53):c.682G>T (p.Asp228Tyr),TP53,p.Asp228Tyr,Likely benign,benign,germline,germline,228,D,Y,p.D228Y
+2732369,2565396,single nucleotide variant,NM_000546.6(TP53):c.1097C>T (p.Ser366Phe),TP53,p.Ser366Phe,Uncertain significance,vus,germline,germline,366,S,F,p.S366F
+2753438,2585878,single nucleotide variant,NM_000546.6(TP53):c.1023C>G (p.Phe341Leu),TP53,p.Phe341Leu,Likely benign,benign,germline,germline,341,F,L,p.F341L
+2753442,2585882,single nucleotide variant,NM_000546.6(TP53):c.1159A>C (p.Thr387Pro),TP53,p.Thr387Pro,Likely benign,benign,germline,germline,387,T,P,p.T387P
+2753443,2585883,single nucleotide variant,NM_000546.6(TP53):c.529C>G (p.Pro177Ala),TP53,p.Pro177Ala,Uncertain significance,vus,germline,germline,177,P,A,p.P177A
+2794537,2627017,single nucleotide variant,NM_000546.6(TP53):c.325T>A (p.Phe109Ile),TP53,p.Phe109Ile,Likely pathogenic,pathogenic,germline,germline,109,F,I,p.F109I
+2836809,2679232,single nucleotide variant,NM_000546.6(TP53):c.445T>C (p.Ser149Pro),TP53,p.Ser149Pro,Uncertain significance,vus,germline;unknown,germline,149,S,P,p.S149P
+2836813,2679236,single nucleotide variant,NM_000546.6(TP53):c.574C>G (p.Gln192Glu),TP53,p.Gln192Glu,Uncertain significance,vus,germline;unknown,germline,192,Q,E,p.Q192E
+2844772,2683739,single nucleotide variant,NM_000546.6(TP53):c.1040C>G (p.Ala347Gly),TP53,p.Ala347Gly,Likely benign,benign,germline,germline,347,A,G,p.A347G
+2848729,2687693,Indel,NM_000546.6(TP53):c.388_390delinsGAT (p.Leu130Asp),TP53,p.Leu130Asp,Uncertain significance,vus,germline,germline,130,L,D,p.L130D
+2848733,2687697,single nucleotide variant,NM_000546.6(TP53):c.502C>A (p.His168Asn),TP53,p.His168Asn,Uncertain significance,vus,germline,germline,168,H,N,p.H168N
+2848734,2687698,single nucleotide variant,NM_000546.6(TP53):c.382C>T (p.Pro128Ser),TP53,p.Pro128Ser,Uncertain significance,vus,germline,germline,128,P,S,p.P128S
+2848735,2687699,single nucleotide variant,NM_000546.6(TP53):c.398T>G (p.Met133Arg),TP53,p.Met133Arg,Uncertain significance,vus,germline,germline,133,M,R,p.M133R
+2848736,2687700,single nucleotide variant,NM_000546.6(TP53):c.457C>G (p.Pro153Ala),TP53,p.Pro153Ala,Uncertain significance,vus,germline,germline,153,P,A,p.P153A
+2848737,2687701,single nucleotide variant,NM_000546.6(TP53):c.550G>C (p.Asp184His),TP53,p.Asp184His,Uncertain significance,vus,germline,germline,184,D,H,p.D184H
+2848739,2687703,Indel,NM_000546.6(TP53):c.376_377delinsCT (p.Tyr126Leu),TP53,p.Tyr126Leu,Uncertain significance,vus,germline,germline,126,Y,L,p.Y126L
+2848742,2687706,single nucleotide variant,NM_000546.6(TP53):c.428T>A (p.Val143Glu),TP53,p.Val143Glu,Uncertain significance,vus,germline,germline,143,V,E,p.V143E
+2848744,2687708,single nucleotide variant,NM_000546.6(TP53):c.443A>T (p.Asp148Val),TP53,p.Asp148Val,Uncertain significance,vus,germline,germline,148,D,V,p.D148V
+2848745,2687709,single nucleotide variant,NM_000546.6(TP53):c.454C>A (p.Pro152Thr),TP53,p.Pro152Thr,Uncertain significance,vus,germline,germline,152,P,T,p.P152T
+2848748,2687712,single nucleotide variant,NM_000546.6(TP53):c.490A>C (p.Lys164Gln),TP53,p.Lys164Gln,Uncertain significance,vus,germline,germline,164,K,Q,p.K164Q
+2848749,2687713,single nucleotide variant,NM_000546.6(TP53):c.496T>G (p.Ser166Ala),TP53,p.Ser166Ala,Uncertain significance,vus,germline,germline,166,S,A,p.S166A
+2854142,2695282,single nucleotide variant,NM_000546.6(TP53):c.170A>G (p.Asp57Gly),TP53,p.Asp57Gly,Uncertain significance,vus,germline,germline,57,D,G,p.D57G
+2856300,2703874,single nucleotide variant,NM_000546.6(TP53):c.572C>T (p.Pro191Leu),TP53,p.Pro191Leu,Uncertain significance,vus,germline,germline,191,P,L,p.P191L
+2856895,2705758,single nucleotide variant,NM_000546.6(TP53):c.163A>C (p.Thr55Pro),TP53,p.Thr55Pro,Uncertain significance,vus,germline,germline,55,T,P,p.T55P
+2873674,2719153,single nucleotide variant,NM_000546.6(TP53):c.1121G>A (p.Gly374Asp),TP53,p.Gly374Asp,Uncertain significance,vus,germline,germline,374,G,D,p.G374D
+2874262,2708097,Indel,NM_000546.6(TP53):c.250_251delinsAA (p.Ala84Asn),TP53,p.Ala84Asn,Uncertain significance,vus,germline,germline,84,A,N,p.A84N
+2893504,2729592,single nucleotide variant,NM_000546.6(TP53):c.308A>C (p.Tyr103Ser),TP53,p.Tyr103Ser,Uncertain significance,vus,germline,germline,103,Y,S,p.Y103S
+2895114,2736423,single nucleotide variant,NM_000546.6(TP53):c.499C>A (p.Gln167Lys),TP53,p.Gln167Lys,Uncertain significance,vus,germline,germline,167,Q,K,p.Q167K
+2907853,2747093,single nucleotide variant,NM_000546.6(TP53):c.176G>C (p.Gly59Ala),TP53,p.Gly59Ala,Uncertain significance,vus,germline,germline,59,G,A,p.G59A
+2910480,2758381,single nucleotide variant,NM_000546.6(TP53):c.655C>A (p.Pro219Thr),TP53,p.Pro219Thr,Uncertain significance,vus,germline;not applicable,germline,219,P,T,p.P219T
+2911598,2746088,single nucleotide variant,NM_000546.6(TP53):c.1043T>C (p.Leu348Ser),TP53,p.Leu348Ser,Uncertain significance,vus,germline,germline,348,L,S,p.L348S
+2914831,2757988,single nucleotide variant,NM_000546.6(TP53):c.488A>C (p.Tyr163Ser),TP53,p.Tyr163Ser,Uncertain significance,vus,germline,germline,163,Y,S,p.Y163S
+2916583,2754115,single nucleotide variant,NM_000546.6(TP53):c.446C>A (p.Ser149Tyr),TP53,p.Ser149Tyr,Uncertain significance,vus,germline,germline,149,S,Y,p.S149Y
+2917882,2759300,single nucleotide variant,NM_000546.6(TP53):c.623A>C (p.Asp208Ala),TP53,p.Asp208Ala,Uncertain significance,vus,germline,germline,208,D,A,p.D208A
+2919448,2751786,Indel,NM_000546.6(TP53):c.700_702delinsCAG (p.Tyr234Gln),TP53,p.Tyr234Gln,Uncertain significance,vus,germline,germline,234,Y,Q,p.Y234Q
+2921007,2757236,single nucleotide variant,NM_000546.6(TP53):c.829T>G (p.Cys277Gly),TP53,p.Cys277Gly,Likely pathogenic,pathogenic,germline,germline,277,C,G,p.C277G
+2922693,2765819,single nucleotide variant,NM_000546.6(TP53):c.779C>T (p.Ser260Phe),TP53,p.Ser260Phe,Uncertain significance,vus,germline,germline,260,S,F,p.S260F
+2930889,2762393,single nucleotide variant,NM_000546.6(TP53):c.1097C>A (p.Ser366Tyr),TP53,p.Ser366Tyr,Uncertain significance,vus,germline,germline,366,S,Y,p.S366Y
+2931746,2764543,single nucleotide variant,NM_000546.6(TP53):c.794T>G (p.Leu265Arg),TP53,p.Leu265Arg,Uncertain significance,vus,germline,germline,265,L,R,p.L265R
+2935374,2774647,single nucleotide variant,NM_000546.6(TP53):c.1064C>A (p.Ala355Asp),TP53,p.Ala355Asp,Uncertain significance,vus,germline,germline,355,A,D,p.A355D
+2935378,2774651,single nucleotide variant,NM_000546.6(TP53):c.544T>C (p.Cys182Arg),TP53,p.Cys182Arg,Uncertain significance,vus,germline,germline,182,C,R,p.C182R
+2935381,2774654,single nucleotide variant,NM_000546.6(TP53):c.190C>T (p.Pro64Ser),TP53,p.Pro64Ser,Uncertain significance,vus,germline,germline,64,P,S,p.P64S
+2935382,2774655,single nucleotide variant,NM_000546.6(TP53):c.127T>G (p.Leu43Val),TP53,p.Leu43Val,Uncertain significance,vus,germline,germline,43,L,V,p.L43V
+2938174,2783073,single nucleotide variant,NM_000546.6(TP53):c.980A>G (p.Tyr327Cys),TP53,p.Tyr327Cys,Uncertain significance,vus,germline,germline,327,Y,C,p.Y327C
+2944113,2780373,single nucleotide variant,NM_000546.6(TP53):c.533A>G (p.His178Arg),TP53,p.His178Arg,Uncertain significance,vus,germline;unknown,germline,178,H,R,p.H178R
+2958263,2795844,single nucleotide variant,NM_000546.6(TP53):c.143A>G (p.Asp48Gly),TP53,p.Asp48Gly,Likely benign,benign,germline,germline,48,D,G,p.D48G
+2968098,2808296,single nucleotide variant,NM_000546.6(TP53):c.773A>T (p.Glu258Val),TP53,p.Glu258Val,Uncertain significance,vus,germline,germline,258,E,V,p.E258V
+2972916,2813114,single nucleotide variant,NM_000546.6(TP53):c.29T>A (p.Val10Asp),TP53,p.Val10Asp,Uncertain significance,vus,germline,germline,10,V,D,p.V10D
+2975608,2811095,single nucleotide variant,NM_000546.6(TP53):c.254C>T (p.Pro85Leu),TP53,p.Pro85Leu,Uncertain significance,vus,germline,germline,85,P,L,p.P85L
+2975958,2812726,single nucleotide variant,NM_000546.6(TP53):c.175G>T (p.Gly59Cys),TP53,p.Gly59Cys,Uncertain significance,vus,germline,germline,59,G,C,p.G59C
+2979390,2825997,single nucleotide variant,NM_000546.6(TP53):c.278T>G (p.Leu93Arg),TP53,p.Leu93Arg,Uncertain significance,vus,germline,germline,93,L,R,p.L93R
+2979552,2826159,single nucleotide variant,NM_000546.6(TP53):c.767C>A (p.Thr256Lys),TP53,p.Thr256Lys,Uncertain significance,vus,germline,germline,256,T,K,p.T256K
+2981416,2820330,single nucleotide variant,NM_000546.6(TP53):c.1070A>C (p.Lys357Thr),TP53,p.Lys357Thr,Uncertain significance,vus,germline,germline,357,K,T,p.K357T
+2989414,2824912,Indel,NM_000546.6(TP53):c.661_662delinsAT (p.Glu221Met),TP53,p.Glu221Met,Uncertain significance,vus,germline,germline,221,E,M,p.E221M
+2990910,2831109,single nucleotide variant,NM_000546.6(TP53):c.259C>T (p.Pro87Ser),TP53,p.Pro87Ser,Uncertain significance,vus,germline,germline,87,P,S,p.P87S
+2991019,2831218,single nucleotide variant,NM_000546.6(TP53):c.253C>G (p.Pro85Ala),TP53,p.Pro85Ala,Uncertain significance,vus,germline,germline,85,P,A,p.P85A
+3000492,2840669,single nucleotide variant,NM_000546.6(TP53):c.461G>C (p.Gly154Ala),TP53,p.Gly154Ala,Uncertain significance,vus,germline,germline,154,G,A,p.G154A
+3000991,2831391,single nucleotide variant,NM_000546.6(TP53):c.803A>G (p.Asn268Ser),TP53,p.Asn268Ser,Uncertain significance,vus,germline,germline,268,N,S,p.N268S
+3003619,2841682,single nucleotide variant,NM_000546.6(TP53):c.928A>C (p.Asn310His),TP53,p.Asn310His,Uncertain significance,vus,germline,germline,310,N,H,p.N310H
+3012329,2847409,single nucleotide variant,NM_000546.6(TP53):c.1054G>C (p.Asp352His),TP53,p.Asp352His,Uncertain significance,vus,germline,germline,352,D,H,p.D352H
+3012487,2848843,single nucleotide variant,NM_000546.6(TP53):c.10C>G (p.Pro4Ala),TP53,p.Pro4Ala,Uncertain significance,vus,germline,germline,4,P,A,p.P4A
+3016130,2850523,single nucleotide variant,NM_000546.6(TP53):c.655C>G (p.Pro219Ala),TP53,p.Pro219Ala,Uncertain significance,vus,germline,germline,219,P,A,p.P219A
+3018966,2861491,single nucleotide variant,NM_000546.6(TP53):c.259C>G (p.Pro87Ala),TP53,p.Pro87Ala,Uncertain significance,vus,germline,germline,87,P,A,p.P87A
+3025198,2858983,single nucleotide variant,NM_000546.6(TP53):c.812A>G (p.Glu271Gly),TP53,p.Glu271Gly,Uncertain significance,vus,germline,germline,271,E,G,p.E271G
+3029440,2863364,single nucleotide variant,NM_000546.6(TP53):c.894G>C (p.Glu298Asp),TP53,p.Glu298Asp,Uncertain significance,vus,germline,germline,298,E,D,p.E298D
+3041611,2877402,single nucleotide variant,NM_000546.6(TP53):c.148A>C (p.Ile50Leu),TP53,p.Ile50Leu,Uncertain significance,vus,germline,germline,50,I,L,p.I50L
+3050798,2886753,single nucleotide variant,NM_000546.6(TP53):c.505A>T (p.Met169Leu),TP53,p.Met169Leu,Uncertain significance,vus,germline,germline,169,M,L,p.M169L
+3051902,2891760,single nucleotide variant,NM_000546.6(TP53):c.943T>C (p.Ser315Pro),TP53,p.Ser315Pro,Uncertain significance,vus,germline,germline,315,S,P,p.S315P
+3074051,2915501,single nucleotide variant,NM_000546.6(TP53):c.479T>C (p.Met160Thr),TP53,p.Met160Thr,Uncertain significance,vus,germline,germline,160,M,T,p.M160T
+3132063,2969522,single nucleotide variant,NM_000546.6(TP53):c.619G>A (p.Asp207Asn),TP53,p.Asp207Asn,Uncertain significance,vus,germline,germline,207,D,N,p.D207N
+3145163,2993845,single nucleotide variant,NM_000546.6(TP53):c.785G>A (p.Gly262Asp),TP53,p.Gly262Asp,Uncertain significance,vus,germline,germline,262,G,D,p.G262D
+3227630,3068296,single nucleotide variant,NM_000546.6(TP53):c.1133C>A (p.Ser378Tyr),TP53,p.Ser378Tyr,Uncertain significance,vus,germline,germline,378,S,Y,p.S378Y
+3231335,3074199,single nucleotide variant,NM_000546.6(TP53):c.199C>G (p.Pro67Ala),TP53,p.Pro67Ala,Uncertain significance,vus,germline,germline,67,P,A,p.P67A
+3234076,3071811,single nucleotide variant,NM_000546.6(TP53):c.959A>C (p.Lys320Thr),TP53,p.Lys320Thr,Uncertain significance,vus,germline,germline,320,K,T,p.K320T
+3235479,3076193,single nucleotide variant,NM_000546.6(TP53):c.806G>A (p.Ser269Asn),TP53,p.Ser269Asn,Uncertain significance,vus,germline,germline,269,S,N,p.S269N
+3307242,3147994,single nucleotide variant,NM_000546.6(TP53):c.812A>T (p.Glu271Val),TP53,p.Glu271Val,Likely pathogenic,pathogenic,germline;unknown,germline,271,E,V,p.E271V
+3385587,3232047,single nucleotide variant,NM_000546.6(TP53):c.1061A>T (p.Gln354Leu),TP53,p.Gln354Leu,Benign,benign,germline,germline,354,Q,L,p.Q354L
+3385588,3232048,single nucleotide variant,NM_000546.6(TP53):c.1148T>C (p.Leu383Pro),TP53,p.Leu383Pro,Uncertain significance,vus,germline,germline,383,L,P,p.L383P
+3385591,3232051,single nucleotide variant,NM_000546.6(TP53):c.166G>A (p.Glu56Lys),TP53,p.Glu56Lys,Uncertain significance,vus,germline,germline,56,E,K,p.E56K
+3385593,3232053,single nucleotide variant,NM_000546.6(TP53):c.272G>C (p.Trp91Ser),TP53,p.Trp91Ser,Uncertain significance,vus,germline,germline,91,W,S,p.W91S
+3385598,3232058,single nucleotide variant,NM_000546.6(TP53):c.629A>G (p.Asn210Ser),TP53,p.Asn210Ser,Likely benign,benign,germline,germline,210,N,S,p.N210S
+3486863,3328150,single nucleotide variant,NM_000546.6(TP53):c.547T>C (p.Ser183Pro),TP53,p.Ser183Pro,Likely benign,benign,germline,germline,183,S,P,p.S183P
+3486867,3328154,single nucleotide variant,NM_000546.6(TP53):c.503A>C (p.His168Pro),TP53,p.His168Pro,Likely pathogenic,pathogenic,germline;somatic,germline/somatic,168,H,P,p.H168P
+3486873,3328160,single nucleotide variant,NM_000546.6(TP53):c.1004G>T (p.Arg335Leu),TP53,p.Arg335Leu,Likely benign,benign,germline,germline,335,R,L,p.R335L
+3486875,3328162,single nucleotide variant,NM_000546.6(TP53):c.905G>C (p.Gly302Ala),TP53,p.Gly302Ala,Likely benign,benign,germline,germline,302,G,A,p.G302A
+3486876,3328163,single nucleotide variant,NM_000546.6(TP53):c.446C>G (p.Ser149Cys),TP53,p.Ser149Cys,Uncertain significance,vus,germline,germline,149,S,C,p.S149C
+3486880,3328167,single nucleotide variant,NM_000546.6(TP53):c.1119G>C (p.Lys373Asn),TP53,p.Lys373Asn,Uncertain significance,vus,germline,germline,373,K,N,p.K373N
+3486882,3328169,single nucleotide variant,NM_000546.6(TP53):c.956A>C (p.Lys319Thr),TP53,p.Lys319Thr,Likely benign,benign,germline,germline,319,K,T,p.K319T
+3486884,3328171,single nucleotide variant,NM_000546.6(TP53):c.1061A>C (p.Gln354Pro),TP53,p.Gln354Pro,Likely benign,benign,germline,germline,354,Q,P,p.Q354P
+3486885,3328172,Indel,NM_000546.6(TP53):c.214_215delinsAG (p.Pro72Ser),TP53,p.Pro72Ser,Uncertain significance,vus,germline,germline,72,P,S,p.P72S
+3486889,3328176,single nucleotide variant,NM_000546.6(TP53):c.916C>G (p.Arg306Gly),TP53,p.Arg306Gly,Uncertain significance,vus,germline,germline,306,R,G,p.R306G
+3499303,3340041,single nucleotide variant,NM_000546.6(TP53):c.884C>A (p.Pro295His),TP53,p.Pro295His,Uncertain significance,vus,germline,germline,295,P,H,p.P295H
+3518636,3359424,single nucleotide variant,NM_000546.6(TP53):c.278T>C (p.Leu93Pro),TP53,p.Leu93Pro,Uncertain significance,vus,germline,germline,93,L,P,p.L93P
+3611106,3460294,single nucleotide variant,NM_000546.6(TP53):c.590T>C (p.Val197Ala),TP53,p.Val197Ala,Uncertain significance,vus,germline,germline,197,V,A,p.V197A
+3611115,3460304,single nucleotide variant,NM_000546.6(TP53):c.612G>C (p.Glu204Asp),TP53,p.Glu204Asp,Likely benign,benign,germline,germline,204,E,D,p.E204D
+3611119,3460308,single nucleotide variant,NM_000546.6(TP53):c.280T>G (p.Ser94Ala),TP53,p.Ser94Ala,Likely benign,benign,germline,germline,94,S,A,p.S94A
+3611123,3460312,single nucleotide variant,NM_000546.6(TP53):c.218T>A (p.Val73Glu),TP53,p.Val73Glu,Likely benign,benign,germline,germline,73,V,E,p.V73E
+3611128,3460317,single nucleotide variant,NM_000546.6(TP53):c.353C>G (p.Thr118Arg),TP53,p.Thr118Arg,Uncertain significance,vus,germline,germline,118,T,R,p.T118R
+3611135,3460324,single nucleotide variant,NM_000546.6(TP53):c.508A>T (p.Thr170Ser),TP53,p.Thr170Ser,Uncertain significance,vus,germline,germline,170,T,S,p.T170S
+3611136,3460325,single nucleotide variant,NM_000546.6(TP53):c.820G>A (p.Val274Ile),TP53,p.Val274Ile,Benign,benign,germline,germline,274,V,I,p.V274I
+3611138,3460327,single nucleotide variant,NM_000546.6(TP53):c.1029G>T (p.Glu343Asp),TP53,p.Glu343Asp,Benign,benign,germline,germline,343,E,D,p.E343D
+3611144,3460333,single nucleotide variant,NM_000546.6(TP53):c.227C>G (p.Ala76Gly),TP53,p.Ala76Gly,Benign,benign,germline,germline,76,A,G,p.A76G
+3611146,3460335,Indel,NM_000546.6(TP53):c.637_639delinsTGG (p.Arg213Trp),TP53,p.Arg213Trp,Likely pathogenic,pathogenic,germline,germline,213,R,W,p.R213W
+3611147,3460336,single nucleotide variant,NM_000546.6(TP53):c.1067G>A (p.Gly356Glu),TP53,p.Gly356Glu,Likely benign,benign,germline,germline,356,G,E,p.G356E
+3611149,3460338,Indel,NM_000546.6(TP53):c.482_483delinsGA (p.Ala161Gly),TP53,p.Ala161Gly,Uncertain significance,vus,germline,germline,161,A,G,p.A161G
+3611150,3460339,single nucleotide variant,NM_000546.6(TP53):c.635T>C (p.Phe212Ser),TP53,p.Phe212Ser,Likely benign,benign,germline,germline,212,F,S,p.F212S
+3735483,3602769,single nucleotide variant,NM_000546.6(TP53):c.440T>G (p.Val147Gly),TP53,p.Val147Gly,Likely pathogenic,pathogenic,germline,germline,147,V,G,p.V147G
+3736601,3605186,single nucleotide variant,NM_000546.6(TP53):c.43A>G (p.Ser15Gly),TP53,p.Ser15Gly,Uncertain significance,vus,germline,germline,15,S,G,p.S15G
+3756339,3619316,single nucleotide variant,NM_000546.6(TP53):c.1178A>G (p.Asp393Gly),TP53,p.Asp393Gly,Uncertain significance,vus,germline,germline,393,D,G,p.D393G
+3763646,3634421,single nucleotide variant,NM_000546.6(TP53):c.1178A>T (p.Asp393Val),TP53,p.Asp393Val,Uncertain significance,vus,germline,germline,393,D,V,p.D393V
+3763647,3634422,single nucleotide variant,NM_000546.6(TP53):c.1129A>T (p.Thr377Ser),TP53,p.Thr377Ser,Uncertain significance,vus,germline,germline,377,T,S,p.T377S
+3763648,3634423,single nucleotide variant,NM_000546.6(TP53):c.925C>A (p.Pro309Thr),TP53,p.Pro309Thr,Uncertain significance,vus,germline,germline,309,P,T,p.P309T
+3763649,3634424,single nucleotide variant,NM_000546.6(TP53):c.911C>G (p.Thr304Ser),TP53,p.Thr304Ser,Uncertain significance,vus,germline,germline,304,T,S,p.T304S
+3763650,3634425,single nucleotide variant,NM_000546.6(TP53):c.898C>T (p.Pro300Ser),TP53,p.Pro300Ser,Uncertain significance,vus,germline,germline,300,P,S,p.P300S
+3763651,3634426,single nucleotide variant,NM_000546.6(TP53):c.811G>C (p.Glu271Gln),TP53,p.Glu271Gln,Uncertain significance,vus,germline,germline,271,E,Q,p.E271Q
+3763652,3634427,single nucleotide variant,NM_000546.6(TP53):c.775G>A (p.Asp259Asn),TP53,p.Asp259Asn,Uncertain significance,vus,germline,germline,259,D,N,p.D259N
+3763653,3634429,single nucleotide variant,NM_000546.6(TP53):c.680C>T (p.Ser227Phe),TP53,p.Ser227Phe,Uncertain significance,vus,germline,germline,227,S,F,p.S227F
+3763654,3634431,single nucleotide variant,NM_000546.6(TP53):c.493C>G (p.Gln165Glu),TP53,p.Gln165Glu,Uncertain significance,vus,germline,germline,165,Q,E,p.Q165E
+3763656,3634433,single nucleotide variant,NM_000546.6(TP53):c.335G>C (p.Gly112Ala),TP53,p.Gly112Ala,Uncertain significance,vus,germline,germline,112,G,A,p.G112A
+3763657,3634434,single nucleotide variant,NM_000546.6(TP53):c.280T>A (p.Ser94Thr),TP53,p.Ser94Thr,Uncertain significance,vus,germline,germline,94,S,T,p.S94T
+3763658,3634435,single nucleotide variant,NM_000546.6(TP53):c.275C>A (p.Pro92His),TP53,p.Pro92His,Uncertain significance,vus,germline,germline,92,P,H,p.P92H
+3763659,3634436,single nucleotide variant,NM_000546.6(TP53):c.217G>T (p.Val73Leu),TP53,p.Val73Leu,Uncertain significance,vus,germline,germline,73,V,L,p.V73L
+3763660,3634437,single nucleotide variant,NM_000546.6(TP53):c.191C>T (p.Pro64Leu),TP53,p.Pro64Leu,Uncertain significance,vus,germline,germline,64,P,L,p.P64L
+3763661,3634438,single nucleotide variant,NM_000546.6(TP53):c.88A>G (p.Asn30Asp),TP53,p.Asn30Asp,Uncertain significance,vus,germline,germline,30,N,D,p.N30D
+3763662,3634439,single nucleotide variant,NM_000546.6(TP53):c.82G>A (p.Glu28Lys),TP53,p.Glu28Lys,Uncertain significance,vus,germline,germline,28,E,K,p.E28K
+3763663,3634440,single nucleotide variant,NM_000546.6(TP53):c.61G>A (p.Asp21Asn),TP53,p.Asp21Asn,Uncertain significance,vus,germline,germline,21,D,N,p.D21N
+3782951,3656084,Indel,NM_000546.6(TP53):c.584_585delinsAT (p.Ile195Asn),TP53,p.Ile195Asn,Uncertain significance,vus,germline,germline,195,I,N,p.I195N
+3803910,3673072,single nucleotide variant,NM_000546.6(TP53):c.704A>T (p.Asn235Ile),TP53,p.Asn235Ile,Uncertain significance,vus,germline,germline,235,N,I,p.N235I
+3811078,3679774,single nucleotide variant,NM_000546.6(TP53):c.1034A>G (p.Asn345Ser),TP53,p.Asn345Ser,Uncertain significance,vus,germline,germline,345,N,S,p.N345S
+3835972,3706400,single nucleotide variant,NM_000546.6(TP53):c.190C>A (p.Pro64Thr),TP53,p.Pro64Thr,Uncertain significance,vus,germline,germline,64,P,T,p.P64T
+3846824,3708635,single nucleotide variant,NM_000546.6(TP53):c.781A>C (p.Ser261Arg),TP53,p.Ser261Arg,Uncertain significance,vus,germline,germline,261,S,R,p.S261R
+3896692,3780730,single nucleotide variant,NM_000546.6(TP53):c.1007A>G (p.Glu336Gly),TP53,p.Glu336Gly,Uncertain significance,vus,germline,germline,336,E,G,p.E336G
+3896693,3780731,single nucleotide variant,NM_000546.6(TP53):c.359A>C (p.Lys120Thr),TP53,p.Lys120Thr,Uncertain significance,vus,germline,germline,120,K,T,p.K120T
+3928212,3809673,single nucleotide variant,NM_000546.6(TP53):c.496T>A (p.Ser166Thr),TP53,p.Ser166Thr,Likely benign,benign,germline,germline,166,S,T,p.S166T
+3928213,3809674,single nucleotide variant,NM_000546.6(TP53):c.372C>G (p.Cys124Trp),TP53,p.Cys124Trp,Likely benign,benign,germline,germline,124,C,W,p.C124W
+3928222,3809683,single nucleotide variant,NM_000546.6(TP53):c.185A>G (p.Glu62Gly),TP53,p.Glu62Gly,Likely benign,benign,germline,germline,62,E,G,p.E62G
+3928226,3809687,single nucleotide variant,NM_000546.6(TP53):c.621T>G (p.Asp207Glu),TP53,p.Asp207Glu,Likely benign,benign,germline,germline,207,D,E,p.D207E
+3928227,3809688,single nucleotide variant,NM_000546.6(TP53):c.424C>G (p.Pro142Ala),TP53,p.Pro142Ala,Uncertain significance,vus,germline,germline,142,P,A,p.P142A
+3928230,3809691,single nucleotide variant,NM_000546.6(TP53):c.34C>T (p.Pro12Ser),TP53,p.Pro12Ser,Uncertain significance,vus,germline,germline,12,P,S,p.P12S
+4009080,3893198,single nucleotide variant,NM_000546.6(TP53):c.827C>T (p.Ala276Val),TP53,p.Ala276Val,Uncertain significance,vus,germline,germline,276,A,V,p.A276V
+4009081,3893199,single nucleotide variant,NM_000546.6(TP53):c.962A>C (p.Lys321Thr),TP53,p.Lys321Thr,Uncertain significance,vus,germline,germline,321,K,T,p.K321T
+4009190,3893309,single nucleotide variant,NM_000546.6(TP53):c.404G>C (p.Cys135Ser),TP53,p.Cys135Ser,Likely pathogenic,pathogenic,germline,germline,135,C,S,p.C135S
+4009747,3893866,single nucleotide variant,NM_000546.6(TP53):c.858A>C (p.Glu286Asp),TP53,p.Glu286Asp,Uncertain significance,vus,germline,germline,286,E,D,p.E286D
+4010151,3894270,single nucleotide variant,NM_000546.6(TP53):c.167A>G (p.Glu56Gly),TP53,p.Glu56Gly,Uncertain significance,vus,germline,germline,56,E,G,p.E56G
+4014471,3898631,single nucleotide variant,NM_000546.6(TP53):c.247G>T (p.Ala83Ser),TP53,p.Ala83Ser,Uncertain significance,vus,germline,germline,83,A,S,p.A83S
+4021896,3906024,single nucleotide variant,NM_000546.6(TP53):c.407A>T (p.Gln136Leu),TP53,p.Gln136Leu,Uncertain significance,vus,germline,germline,136,Q,L,p.Q136L
+4089453,3972441,single nucleotide variant,NM_000546.6(TP53):c.565G>A (p.Ala189Thr),TP53,p.Ala189Thr,Uncertain significance,vus,germline,germline,189,A,T,p.A189T
+4089458,3972446,single nucleotide variant,NM_000546.6(TP53):c.424C>A (p.Pro142Thr),TP53,p.Pro142Thr,Uncertain significance,vus,germline,germline,142,P,T,p.P142T
+4089460,3972448,single nucleotide variant,NM_000546.6(TP53):c.247G>C (p.Ala83Pro),TP53,p.Ala83Pro,Likely benign,benign,germline,germline,83,A,P,p.A83P
+4089461,3972449,single nucleotide variant,NM_000546.6(TP53):c.1132T>A (p.Ser378Thr),TP53,p.Ser378Thr,Likely benign,benign,germline,germline,378,S,T,p.S378T
+4089463,3972451,single nucleotide variant,NM_000546.6(TP53):c.624C>G (p.Asp208Glu),TP53,p.Asp208Glu,Uncertain significance,vus,germline,germline,208,D,E,p.D208E
+4089464,3972452,single nucleotide variant,NM_000546.6(TP53):c.618G>C (p.Leu206Phe),TP53,p.Leu206Phe,Uncertain significance,vus,germline,germline,206,L,F,p.L206F
+4089468,3972456,single nucleotide variant,NM_000546.6(TP53):c.62A>C (p.Asp21Ala),TP53,p.Asp21Ala,Likely benign,benign,germline,germline,21,D,A,p.D21A
+4089470,3972458,single nucleotide variant,NM_000546.6(TP53):c.978A>C (p.Glu326Asp),TP53,p.Glu326Asp,Likely benign,benign,germline,germline,326,E,D,p.E326D
+4089471,3972459,single nucleotide variant,NM_000546.6(TP53):c.410T>A (p.Leu137Gln),TP53,p.Leu137Gln,Uncertain significance,vus,germline;not applicable,germline,137,L,Q,p.L137Q
+4089472,3972460,single nucleotide variant,NM_000546.6(TP53):c.718A>T (p.Ser240Cys),TP53,p.Ser240Cys,Likely pathogenic,pathogenic,germline,germline,240,S,C,p.S240C
+4089478,3972466,single nucleotide variant,NM_000546.6(TP53):c.620A>G (p.Asp207Gly),TP53,p.Asp207Gly,Uncertain significance,vus,germline,germline,207,D,G,p.D207G
+4170183,4056245,single nucleotide variant,NM_000546.6(TP53):c.370T>C (p.Cys124Arg),TP53,p.Cys124Arg,Likely pathogenic,pathogenic,germline,germline,124,C,R,p.C124R
+4304820,4189250,single nucleotide variant,NM_000546.6(TP53):c.1049T>G (p.Leu350Arg),TP53,p.Leu350Arg,Likely benign,benign,germline,germline,350,L,R,p.L350R
+4304828,4189258,single nucleotide variant,NM_000546.6(TP53):c.717C>A (p.Asn239Lys),TP53,p.Asn239Lys,Pathogenic,pathogenic,germline,germline,239,N,K,p.N239K
+4304831,4189261,single nucleotide variant,NM_000546.6(TP53):c.283T>A (p.Ser95Thr),TP53,p.Ser95Thr,Likely benign,benign,germline,germline,95,S,T,p.S95T
+4304832,4189262,single nucleotide variant,NM_000546.6(TP53):c.1102C>G (p.His368Asp),TP53,p.His368Asp,Uncertain significance,vus,germline,germline,368,H,D,p.H368D
+4304833,4189263,single nucleotide variant,NM_000546.6(TP53):c.994A>C (p.Ile332Leu),TP53,p.Ile332Leu,Likely benign,benign,germline,germline,332,I,L,p.I332L
+4304838,4189268,single nucleotide variant,NM_000546.6(TP53):c.563T>C (p.Leu188Pro),TP53,p.Leu188Pro,Uncertain significance,vus,germline,germline,188,L,P,p.L188P
+4304841,4189271,single nucleotide variant,NM_000546.6(TP53):c.236C>T (p.Ala79Val),TP53,p.Ala79Val,Likely benign,benign,germline,germline,79,A,V,p.A79V
+4304844,4189274,single nucleotide variant,NM_000546.6(TP53):c.299A>C (p.Gln100Pro),TP53,p.Gln100Pro,Uncertain significance,vus,germline,germline,100,Q,P,p.Q100P
+4391604,4279056,single nucleotide variant,NM_000546.6(TP53):c.391A>C (p.Asn131His),TP53,p.Asn131His,Likely pathogenic,pathogenic,germline,germline,131,N,H,p.N131H

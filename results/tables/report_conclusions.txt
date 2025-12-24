@@ -1,0 +1,6 @@
+We analyzed 915 TP53 missense variants from ClinVar and grouped them into pathogenic, benign, and VUS categories.
+Pathogenic variants tend to occur at more conserved positions than benign variants (mean conservation: pathogenic=0.946, benign=0.646, VUS=0.757).
+SIFT scores are lower (more damaging) on average for pathogenic variants than benign variants (mean SIFT: pathogenic=0.019, benign=0.236, VUS=0.130).
+Using core TP53 domains (TAD/DBD/OD), variants show core-domain rates: pathogenic=8.53%, benign=32.85%, VUS=19.75%.
+PolyPhen scores were unavailable for many variants in our pipeline (missing rate ≈ 82.51%); therefore, prioritization relied primarily on conservation and SIFT, using PolyPhen only when present.
+Using a robust prioritization score, we generated a ranked list of high-priority VUS candidates for follow-up investigation.

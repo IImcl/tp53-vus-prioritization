@@ -1,0 +1,21 @@
+domain_name,start,end,type
+Transcription activation (acidic),1,44,Region
+Interaction with HRMT1L2,1,83,Region
+Interaction with CCAR2,1,320,Region
+Disordered,50,96,Region
+Interaction with WWOX,66,110,Region
+Required for interaction with ZNF385A,100,300,Region
+Interaction with HIPK1,100,370,Region
+Required for interaction with FBXO42,113,236,Region
+Interaction with AXIN1,116,292,Region
+Interaction with the 53BP2 SH3 domain,241,248,Region
+Interaction with E4F1,256,294,Region
+Interaction with DNA,273,280,Region
+Disordered,282,325,Region
+Interaction with CARM1,300,393,Region
+Interaction with HIPK2,319,360,Region
+Oligomerization,325,356,Region
+Disordered,351,393,Region
+Interaction with USP7,359,363,Region
+Basic (repression of DNA-binding),368,387,Region
+Interaction with MORN3,374,393,Region
